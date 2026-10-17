@@ -1,0 +1,841 @@
+[
+  {
+    "id": "10.21203/rs.3.rs-11065605/v1",
+    "doi": "10.21203/rs.3.rs-11065605/v1",
+    "title": "Conformalized Quantum DeepONet Ensembles: Towards Scalable Operator Learning with Distribution-Free Guarantees",
+    "authors": [
+      "Purav Matlia",
+      "Christian Moya",
+      "Guang Lin"
+    ],
+    "year": 2026,
+    "date": "2026-10-16",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11065605/v1",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-17",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11065605%2Fv1",
+        "checked": "2026-10-17"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7160155953",
+        "checked": "2026-10-17"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/1402-4896/aeb580",
+    "doi": "10.1088/1402-4896/aeb580",
+    "title": "Physics-Informed Neural Networks for Stress Analysis in In-Plane Crack Problems",
+    "authors": [
+      "Sunraj Patel",
+      "MANOJ YADAV",
+      "Krishanu Biswas"
+    ],
+    "year": 2026,
+    "date": "2026-10-16",
+    "venue": "Physica Scripta",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/1402-4896/aeb580",
+    "topics": [
+      "sciml",
+      "fracture"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-17",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F1402-4896%2Faeb580",
+        "checked": "2026-10-17"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222552971",
+        "checked": "2026-10-17"
+      }
+    ]
+  },
+  {
+    "id": "10.1073/pnas.2526451123",
+    "doi": "10.1073/pnas.2526451123",
+    "title": "A neural operator framework for data-driven discovery of stability and receptivity in physical systems",
+    "authors": [
+      "Chengyun Wang",
+      "Liwei Chen",
+      "Nils Thuerey"
+    ],
+    "year": 2026,
+    "date": "2026-10-16",
+    "venue": "Proceedings of the National Academy of Sciences",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1073/pnas.2526451123",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-17",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1073%2Fpnas.2526451123",
+        "checked": "2026-10-17"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7155169574",
+        "checked": "2026-10-17"
+      }
+    ]
+  },
+  {
+    "id": "10.1016/j.compstruc.2026.108410",
+    "doi": "10.1016/j.compstruc.2026.108410",
+    "title": "Dual damping effects on the aeroelastic instability of nature-inspired lattice plates",
+    "authors": [
+      "Thoai N. Tran",
+      "Nam V. Nguyen"
+    ],
+    "year": 2026,
+    "date": "2026-10",
+    "venue": "Computers & Structures",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.compstruc.2026.108410",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.compstruc.2026.108410",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "profile-discovery"
+  },
+  {
+    "id": "10.1007/s10999-026-09934-0",
+    "doi": "10.1007/s10999-026-09934-0",
+    "title": "Hybrid Monte Carlo–Levenberg–Marquardt neural network for stochastic analysis of 3D-FGP microplates",
+    "authors": [
+      "Van Thien Tran",
+      "Trung Kien Nguyen",
+      "Thuc P. Vo",
+      "Armagan Karamanli"
+    ],
+    "year": 2026,
+    "date": "2026-06-17",
+    "venue": "International Journal of Mechanics and Materials in Design",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s10999-026-09934-0",
+    "topics": [
+      "sciml",
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs10999-026-09934-0",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "profile-discovery"
+  },
+  {
+    "id": "10.1016/j.jmps.2025.106253",
+    "doi": "10.1016/j.jmps.2025.106253",
+    "title": "Generative deep learning for designing printable multifunctional microstructural materials: application to piezocomposites",
+    "authors": [
+      "Mohammad Saber Hashemi",
+      "Fatemeh Delzendehrooy",
+      "Lu Trong Khiem Nguyen",
+      "Levi Kirby",
+      "Xuan Song",
+      "Azadeh Sheidaei"
+    ],
+    "year": 2025,
+    "date": "2025-11",
+    "venue": "Journal of the Mechanics and Physics of Solids",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.jmps.2025.106253",
+    "topics": [
+      "sciml",
+      "materials",
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.jmps.2025.106253",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "profile-discovery"
+  },
+  {
+    "id": "10.1016/j.cma.2025.118078",
+    "doi": "10.1016/j.cma.2025.118078",
+    "title": "FFT-based Galerkin and level-set methods for the homogenized evolution of domain nuclei in ferroelectrics",
+    "authors": [
+      "Hsu-Cheng Cheng",
+      "Lu Trong Khiem Nguyen",
+      "Dennis M. Kochmann"
+    ],
+    "year": 2025,
+    "date": "2025-08",
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.cma.2025.118078",
+    "topics": [
+      "fem",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.cma.2025.118078",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "profile-discovery"
+  },
+  {
+    "id": "10.1080/15376494.2025.2524709",
+    "doi": "10.1080/15376494.2025.2524709",
+    "title": "Higher-order shear deformation theory and Ritz method for analysis of functionally graded sandwich curved beams",
+    "authors": [
+      "Ngoc-Duong Nguyen",
+      "Van-Tai Bui",
+      "Trung-Kien Nguyen",
+      "Thuc P. Vo"
+    ],
+    "year": 2025,
+    "date": "2025-06-29",
+    "venue": "Mechanics of Advanced Materials and Structures",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1080/15376494.2025.2524709",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1080%2F15376494.2025.2524709",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "profile-discovery"
+  },
+  {
+    "id": "10.1016/j.autcon.2022.104316",
+    "doi": "10.1016/j.autcon.2022.104316",
+    "title": "Vision transformer-based autonomous crack detection on asphalt and concrete surfaces",
+    "authors": [
+      "Elyas Asadi Shamsabadi",
+      "Chang Xu",
+      "Aravinda S. Rao",
+      "Tuan Nguyen",
+      "Tuan Ngo",
+      "Daniel Dias-da-Costa"
+    ],
+    "year": 2022,
+    "date": "2022-08",
+    "venue": "Automation in Construction",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.autcon.2022.104316",
+    "topics": [
+      "inverse"
+    ],
+    "featured": true,
+    "reason": "Hướng ứng dụng vision transformer vào phát hiện nứt kết cấu.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.autcon.2022.104316",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.istruc.2022.02.003",
+    "doi": "10.1016/j.istruc.2022.02.003",
+    "title": "Machine learning for structural engineering: A state-of-the-art review",
+    "authors": [
+      "Huu-Tai Thai"
+    ],
+    "year": 2022,
+    "date": "2022-04",
+    "venue": "Structures",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.istruc.2022.02.003",
+    "topics": [
+      "sciml"
+    ],
+    "featured": true,
+    "reason": "Bản đồ phương pháp học máy và ứng dụng trong kỹ thuật kết cấu.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.istruc.2022.02.003",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.compstruct.2021.114287",
+    "doi": "10.1016/j.compstruct.2021.114287",
+    "title": "An improved Artificial Neural Network using Arithmetic Optimization Algorithm for damage assessment in FGM composite plates",
+    "authors": [
+      "Samir Khatir",
+      "Samir Tiachacht",
+      "Cuong Le Thanh",
+      "Emad Ghandourah",
+      "Seyedali Mirjalili",
+      "Magd Abdel Wahab"
+    ],
+    "year": 2021,
+    "date": "2021-10",
+    "venue": "Composite Structures",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.compstruct.2021.114287",
+    "topics": [
+      "sciml",
+      "plates",
+      "inverse"
+    ],
+    "featured": true,
+    "reason": "Kết nối mạng nơ-ron và tối ưu hóa với đánh giá hư hỏng tấm FGM.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.compstruct.2021.114287",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1038/s42256-021-00302-5",
+    "doi": "10.1038/s42256-021-00302-5",
+    "title": "Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators",
+    "authors": [
+      "Lu Lu",
+      "Pengzhan Jin",
+      "Guofei Pang",
+      "Zhongqiang Zhang",
+      "George Em Karniadakis"
+    ],
+    "year": 2021,
+    "date": "2021-03-18",
+    "venue": "Nature Machine Intelligence",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s42256-021-00302-5",
+    "topics": [
+      "sciml"
+    ],
+    "featured": true,
+    "reason": "Nền tảng DeepONet để học ánh xạ giữa các không gian hàm.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs42256-021-00302-5",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.compstruct.2020.113213",
+    "doi": "10.1016/j.compstruct.2020.113213",
+    "title": "A comprehensive analysis of auxetic honeycomb sandwich plates with graphene nanoplatelets reinforcement",
+    "authors": [
+      "Nam V. Nguyen",
+      "H. Nguyen-Xuan",
+      "Tan N. Nguyen",
+      "Joowon Kang",
+      "Jaehong Lee"
+    ],
+    "year": 2021,
+    "date": "2021-03",
+    "venue": "Composite Structures",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.compstruct.2020.113213",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": true,
+    "reason": "Tham chiếu mô hình tấm sandwich auxetic gia cường graphene.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.compstruct.2020.113213",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.cma.2019.112790",
+    "doi": "10.1016/j.cma.2019.112790",
+    "title": "An energy approach to the solution of partial differential equations in computational mechanics via machine learning: Concepts, implementation and applications",
+    "authors": [
+      "E. Samaniego",
+      "C. Anitescu",
+      "S. Goswami",
+      "V.M. Nguyen-Thanh",
+      "H. Guo",
+      "K. Hamdia",
+      "X. Zhuang",
+      "T. Rabczuk"
+    ],
+    "year": 2020,
+    "date": "2020-04",
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.cma.2019.112790",
+    "topics": [
+      "sciml"
+    ],
+    "featured": true,
+    "reason": "Kết nối nguyên lý năng lượng với mạng nơ-ron giải PDE trong cơ học.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.cma.2019.112790",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.jcp.2019.108973",
+    "doi": "10.1016/j.jcp.2019.108973",
+    "title": "Model reduction of dynamical systems on nonlinear manifolds using deep convolutional autoencoders",
+    "authors": [
+      "Kookjin Lee",
+      "Kevin T. Carlberg"
+    ],
+    "year": 2020,
+    "date": "2020-03",
+    "venue": "Journal of Computational Physics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.jcp.2019.108973",
+    "topics": [
+      "rom"
+    ],
+    "featured": true,
+    "reason": "Kết nối ROM với biểu diễn manifold phi tuyến học bằng autoencoder.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.jcp.2019.108973",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.jcp.2018.10.045",
+    "doi": "10.1016/j.jcp.2018.10.045",
+    "title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
+    "authors": [
+      "M. Raissi",
+      "P. Perdikaris",
+      "G.E. Karniadakis"
+    ],
+    "year": 2019,
+    "date": "2019-02",
+    "venue": "Journal of Computational Physics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.jcp.2018.10.045",
+    "topics": [
+      "sciml",
+      "inverse"
+    ],
+    "featured": true,
+    "reason": "Công trình phương pháp PINNs cho bài toán thuận và ngược của PDE.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.jcp.2018.10.045",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.compstruc.2017.07.031",
+    "doi": "10.1016/j.compstruc.2017.07.031",
+    "title": "A data-driven approach to nonlinear elasticity",
+    "authors": [
+      "Lu Trong Khiem Nguyen",
+      "Marc-André Keip"
+    ],
+    "year": 2018,
+    "date": "2018-01",
+    "venue": "Computers & Structures",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.compstruc.2017.07.031",
+    "topics": [
+      "sciml"
+    ],
+    "featured": true,
+    "reason": "Tham chiếu cho cơ học đàn hồi phi tuyến dựa trên dữ liệu.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.compstruc.2017.07.031",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.compstruct.2017.06.040",
+    "doi": "10.1016/j.compstruct.2017.06.040",
+    "title": "A review of continuum mechanics models for size-dependent analysis of beams and plates",
+    "authors": [
+      "Huu-Tai Thai",
+      "Thuc P. Vo",
+      "Trung-Kien Nguyen",
+      "Seung-Eock Kim"
+    ],
+    "year": 2017,
+    "date": "2017-10",
+    "venue": "Composite Structures",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.compstruct.2017.06.040",
+    "topics": [
+      "plates"
+    ],
+    "featured": true,
+    "reason": "Bài tổng quan để định hướng lựa chọn mô hình dầm, tấm phụ thuộc kích thước.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.compstruct.2017.06.040",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.compstruct.2014.12.021",
+    "doi": "10.1016/j.compstruct.2014.12.021",
+    "title": "Isogeometric analysis of functionally graded carbon nanotube-reinforced composite plates using higher-order shear deformation theory",
+    "authors": [
+      "P. Phung-Van",
+      "M. Abdel-Wahab",
+      "K.M. Liew",
+      "S.P.A. Bordas",
+      "H. Nguyen-Xuan"
+    ],
+    "year": 2015,
+    "date": "2015-05",
+    "venue": "Composite Structures",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.compstruct.2014.12.021",
+    "topics": [
+      "plates",
+      "fem",
+      "materials"
+    ],
+    "featured": true,
+    "reason": "Kết nối IGA, lý thuyết bậc cao và tấm composite gia cường CNT.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.compstruct.2014.12.021",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.euromechsol.2013.12.008",
+    "doi": "10.1016/j.euromechsol.2013.12.008",
+    "title": "Analysis of functionally graded sandwich plates using a new first-order shear deformation theory",
+    "authors": [
+      "Huu-Tai Thai",
+      "Trung-Kien Nguyen",
+      "Thuc P. Vo",
+      "Jaehong Lee"
+    ],
+    "year": 2014,
+    "date": "2014-05",
+    "venue": "European Journal of Mechanics - A/Solids",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.euromechsol.2013.12.008",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": true,
+    "reason": "Mốc tham chiếu cho mô hình biến dạng cắt tấm sandwich FGM.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.euromechsol.2013.12.008",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.euromechsol.2013.09.001",
+    "doi": "10.1016/j.euromechsol.2013.09.001",
+    "title": "Isogeometric analysis of laminated composite and sandwich plates using a new inverse trigonometric shear deformation theory",
+    "authors": [
+      "Chien H. Thai",
+      "A.J.M. Ferreira",
+      "S.P.A. Bordas",
+      "T. Rabczuk",
+      "H. Nguyen-Xuan"
+    ],
+    "year": 2014,
+    "date": "2014-01",
+    "venue": "European Journal of Mechanics - A/Solids",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.euromechsol.2013.09.001",
+    "topics": [
+      "plates",
+      "fem"
+    ],
+    "featured": true,
+    "reason": "Tham chiếu IGA kết hợp lý thuyết biến dạng cắt cho tấm composite.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.euromechsol.2013.09.001",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.compstruc.2008.09.003",
+    "doi": "10.1016/j.compstruc.2008.09.003",
+    "title": "A node-based smoothed finite element method (NS-FEM) for upper bound solutions to solid mechanics problems",
+    "authors": [
+      "G.R. Liu",
+      "T. Nguyen-Thoi",
+      "H. Nguyen-Xuan",
+      "K.Y. Lam"
+    ],
+    "year": 2009,
+    "date": "2009-01",
+    "venue": "Computers & Structures",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.compstruc.2008.09.003",
+    "topics": [
+      "fem"
+    ],
+    "featured": true,
+    "reason": "Công trình nền tảng về NS-FEM cho cơ học vật rắn.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.compstruc.2008.09.003",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/j.matcom.2008.01.003",
+    "doi": "10.1016/j.matcom.2008.01.003",
+    "title": "Meshless methods: A review and computer implementation aspects",
+    "authors": [
+      "Vinh Phu Nguyen",
+      "Timon Rabczuk",
+      "Stéphane Bordas",
+      "Marc Duflot"
+    ],
+    "year": 2008,
+    "date": "2008-12",
+    "venue": "Mathematics and Computers in Simulation",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1016/j.matcom.2008.01.003",
+    "topics": [
+      "fem"
+    ],
+    "featured": true,
+    "reason": "Tổng quan phương pháp không lưới với định hướng triển khai tính toán.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fj.matcom.2008.01.003",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1007/s00466-006-0075-4",
+    "doi": "10.1007/s00466-006-0075-4",
+    "title": "A Smoothed Finite Element Method for Mechanics Problems",
+    "authors": [
+      "G. R. Liu",
+      "K. Y. Dai",
+      "T. T. Nguyen"
+    ],
+    "year": 2006,
+    "date": "2006-05-17",
+    "venue": "Computational Mechanics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s00466-006-0075-4",
+    "topics": [
+      "fem"
+    ],
+    "featured": true,
+    "reason": "Một trong các công trình cơ sở của smoothed FEM.",
+    "discovered_on": "2026-10-18",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs00466-006-0075-4",
+        "checked": "2026-10-18"
+      }
+    ],
+    "metadata_status": "verified-crossref",
+    "selection": "editorial"
+  },
+  {
+    "id": "10.1016/bs.aams.2019.08.001",
+    "doi": "10.1016/bs.aams.2019.08.001",
+    "title": "Phase-field modeling of fracture",
+    "authors": [
+      "Jian‐Ying Wu",
+      "Vinh Phu Nguyen",
+      "Chi Thanh Nguyen",
+      "Danas Sutula",
+      "Sina Sinaie",
+      "Stéphane Bordas"
+    ],
+    "year": 2020,
+    "date": "2020",
+    "venue": "Advances in Applied Mechanics",
+    "type": "book-chapter",
+    "url": "https://doi.org/10.1016/bs.aams.2019.08.001",
+    "topics": [
+      "fracture"
+    ],
+    "featured": true,
+    "reason": "Tổng quan mô hình phase-field cho bài toán phá hủy và phát triển vết nứt.",
+    "discovered_on": "2026-10-18",
+    "metadata_status": "verified-crossref",
+    "selection": "editorial",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fbs.aams.2019.08.001",
+        "checked": "2026-10-18"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W2996513216",
+        "checked": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s001580050176",
+    "doi": "10.1007/s001580050176",
+    "title": "A 99 line topology optimization code written in Matlab",
+    "authors": [
+      "O. Sigmund"
+    ],
+    "year": 2001,
+    "date": "2001-04",
+    "venue": "Structural and Multidisciplinary Optimization",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s001580050176",
+    "topics": [
+      "design"
+    ],
+    "featured": true,
+    "reason": "Bài nhập môn kinh điển với mã nguồn ngắn để hiểu quy trình tối ưu topology.",
+    "discovered_on": "2026-10-18",
+    "metadata_status": "verified-crossref",
+    "selection": "editorial",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs001580050176",
+        "checked": "2026-10-18"
+      }
+    ]
+  }
+]

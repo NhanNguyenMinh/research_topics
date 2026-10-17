@@ -1,0 +1,17 @@
+# Private follow list and derived identity mappings stay on this computer.
+data/researchers.json
+data/author-candidates.json
+data/seeds.json
+data/unresolved-seeds.json
+scripts/bootstrap.py
+scripts/resolve_authors.py
+scripts/prepare_local.py
+scripts/enrich_local.py
+scripts/finalize_local.py
+private/
+.env
+.env.*
+!.env.example
+__pycache__/
+dist/
+*.log

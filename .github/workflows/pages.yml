@@ -1,0 +1,69 @@
+name: Update topics and deploy Pages
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '20 0 * * *'
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: Discover new papers by public topic queries
+        type: boolean
+        default: true
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+      - name: Refresh public topic metadata
+        id: refresh
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
+        continue-on-error: true
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python scripts/update.py
+      - name: Test and validate public data
+        run: |
+          python -m unittest discover -s tests
+          node --test tests/model.test.mjs
+          python scripts/validate.py
+          python scripts/check_public.py
+      - name: Save updated public metadata
+        if: github.event_name != 'push'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/papers.json data/status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update public topic metadata'
+            git push
+          fi
+      - name: Build static artifact
+        run: python scripts/build.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4
+        id: deployment
+      - name: Report incomplete refresh after deploying preserved data
+        if: steps.refresh.outcome == 'failure'
+        run: |
+          echo 'Topic refresh was incomplete; existing verified records remain available. See data/status.json.'
+          exit 1

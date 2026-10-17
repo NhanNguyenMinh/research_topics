@@ -1,0 +1,11 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {filterPapers,loadSaved,safeUrl} from '../web/model.mjs';
+const p=[{id:'a',doi:'10.a/a',title:'Mô hình tấm',authors:['Nguyễn Trung Kiên'],venue:'Mechanics',topics:['plates'],year:2026,date:'2026-10-01',featured:false},{id:'b',doi:'10.a/b',title:'Model reduction',authors:['Author'],venue:'JCP',topics:['rom'],year:2020,date:'2020-01-01',featured:true}];
+const state={query:'',topic:'',year:'',mode:'all',sort:'newest',view:'home',saved:new Set()};
+test('accent-insensitive multiword author search',()=>assert.deepEqual(filterPapers(p,{...state,query:'nguyen kien'}).map(p=>p.id),['a']));
+test('saved and topic filters compose',()=>assert.equal(filterPapers(p,{...state,view:'saved',topic:'rom',saved:new Set(['a'])}).length,0));
+test('recent uses publication date',()=>assert.deepEqual(filterPapers(p,{...state,mode:'recent'},new Date('2026-10-18')).map(p=>p.id),['a']));
+test('featured sorting retains editorial selection',()=>assert.equal(filterPapers(p,{...state,sort:'featured'})[0].id,'b'));
+test('corrupt local storage is recoverable',()=>assert.equal(loadSaved({getItem:()=>'{broken'}).size,0));
+test('external links reject executable URLs',()=>assert.equal(safeUrl('javascript:alert(1)'),'#'));

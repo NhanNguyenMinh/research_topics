@@ -1,0 +1,10 @@
+[
+ {"topic":"sciml","search":"physics informed neural networks computational mechanics"},
+ {"topic":"plates","search":"functionally graded composite plate shear deformation"},
+ {"topic":"fem","search":"isogeometric smoothed finite element mechanics"},
+ {"topic":"materials","search":"computational homogenization architected materials"},
+ {"topic":"inverse","search":"structural damage identification physics informed"},
+ {"topic":"design","search":"differentiable simulation topology optimization"},
+ {"topic":"rom","search":"reduced order modeling autoencoder mechanics"},
+ {"topic":"fracture","search":"phase field fracture computational mechanics"}
+]
