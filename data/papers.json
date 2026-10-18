@@ -1,5 +1,40 @@
 [
   {
+    "id": "10.21203/rs.3.rs-11173852/v1",
+    "doi": "10.21203/rs.3.rs-11173852/v1",
+    "title": "Topologically Biomimetic Multicellular Structures Inspired by Pine Nut Shells for Enhanced Energy Absorption",
+    "authors": [
+      "yaoqi Li",
+      "juan Zhou",
+      "yubo Yuan"
+    ],
+    "year": 2026,
+    "date": "2026-10-16",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11173852/v1",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-18",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11173852%2Fv1",
+        "checked": "2026-10-18"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222448207",
+        "checked": "2026-10-18"
+      }
+    ]
+  },
+  {
     "id": "10.21203/rs.3.rs-11065605/v1",
     "doi": "10.21203/rs.3.rs-11065605/v1",
     "title": "Conformalized Quantum DeepONet Ensembles: Towards Scalable Operator Learning with Distribution-Free Guarantees",
@@ -102,6 +137,154 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7155169574",
         "checked": "2026-10-17"
+      }
+    ]
+  },
+  {
+    "id": "10.5755/j02.mech.44172",
+    "doi": "10.5755/j02.mech.44172",
+    "title": "Reliability-Based Proportional Topology Optimization of Continuum Structures with Smooth Boundaries",
+    "authors": [
+      "Lingyun YANG",
+      "Yong SONG",
+      "Xiafeng HU",
+      "Xiong RAO",
+      "Run DU",
+      "Wenming CHENG"
+    ],
+    "year": 2026,
+    "date": "2026-10-15",
+    "venue": "Mechanics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.5755/j02.mech.44172",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-18",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.5755%2Fj02.mech.44172",
+        "checked": "2026-10-18"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222328141",
+        "checked": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41598-026-75221-9",
+    "doi": "10.1038/s41598-026-75221-9",
+    "title": "Valorization of banana and bamboo leaf ash for sustainable binders with strength, microstructure",
+    "authors": [
+      "G. Murali",
+      "Momo Gleh Mason",
+      "Patchamatla J. Rama Raju",
+      "Leong Sing Wong",
+      "Marzena Kurpińska",
+      "Hakim S. Abdelgader",
+      "V. R. Ramkumar",
+      "Siva Avudaiappan"
+    ],
+    "year": 2026,
+    "date": "2026-10-15",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-75221-9",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-18",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-75221-9",
+        "checked": "2026-10-18"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222256471",
+        "checked": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s00466-026-02874-8",
+    "doi": "10.1007/s00466-026-02874-8",
+    "title": "Splinenet: an isogeometric deep learning method for complex shells",
+    "authors": [
+      "Shizhou Luo",
+      "Xiaodong Wei"
+    ],
+    "year": 2026,
+    "date": "2026-10-13",
+    "venue": "Computational Mechanics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s00466-026-02874-8",
+    "topics": [
+      "sciml",
+      "plates",
+      "fem"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-18",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs00466-026-02874-8",
+        "checked": "2026-10-18"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7167708666",
+        "checked": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s44369-026-00020-8",
+    "doi": "10.1007/s44369-026-00020-8",
+    "title": "Augmented multiscale formulation for incompressible flow",
+    "authors": [
+      "Rakesh Ranjan",
+      "Guillermo Araya"
+    ],
+    "year": 2026,
+    "date": "2026-10-11",
+    "venue": "Discover Fluid Mechanics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s44369-026-00020-8",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-18",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs44369-026-00020-8",
+        "checked": "2026-10-18"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7221321855",
+        "checked": "2026-10-18"
       }
     ]
   },
@@ -491,6 +674,44 @@
     "selection": "editorial"
   },
   {
+    "id": "10.1016/bs.aams.2019.08.001",
+    "doi": "10.1016/bs.aams.2019.08.001",
+    "title": "Phase-field modeling of fracture",
+    "authors": [
+      "Jian‐Ying Wu",
+      "Vinh Phu Nguyen",
+      "Chi Thanh Nguyen",
+      "Danas Sutula",
+      "Sina Sinaie",
+      "Stéphane Bordas"
+    ],
+    "year": 2020,
+    "date": "2020",
+    "venue": "Advances in Applied Mechanics",
+    "type": "book-chapter",
+    "url": "https://doi.org/10.1016/bs.aams.2019.08.001",
+    "topics": [
+      "fracture"
+    ],
+    "featured": true,
+    "reason": "Tổng quan mô hình phase-field cho bài toán phá hủy và phát triển vết nứt.",
+    "discovered_on": "2026-10-18",
+    "metadata_status": "verified-crossref",
+    "selection": "editorial",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1016%2Fbs.aams.2019.08.001",
+        "checked": "2026-10-18"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W2996513216",
+        "checked": "2026-10-18"
+      }
+    ]
+  },
+  {
     "id": "10.1016/j.jcp.2018.10.045",
     "doi": "10.1016/j.jcp.2018.10.045",
     "title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
@@ -771,44 +992,6 @@
     ],
     "metadata_status": "verified-crossref",
     "selection": "editorial"
-  },
-  {
-    "id": "10.1016/bs.aams.2019.08.001",
-    "doi": "10.1016/bs.aams.2019.08.001",
-    "title": "Phase-field modeling of fracture",
-    "authors": [
-      "Jian‐Ying Wu",
-      "Vinh Phu Nguyen",
-      "Chi Thanh Nguyen",
-      "Danas Sutula",
-      "Sina Sinaie",
-      "Stéphane Bordas"
-    ],
-    "year": 2020,
-    "date": "2020",
-    "venue": "Advances in Applied Mechanics",
-    "type": "book-chapter",
-    "url": "https://doi.org/10.1016/bs.aams.2019.08.001",
-    "topics": [
-      "fracture"
-    ],
-    "featured": true,
-    "reason": "Tổng quan mô hình phase-field cho bài toán phá hủy và phát triển vết nứt.",
-    "discovered_on": "2026-10-18",
-    "metadata_status": "verified-crossref",
-    "selection": "editorial",
-    "sources": [
-      {
-        "name": "Crossref",
-        "url": "https://api.crossref.org/works/10.1016%2Fbs.aams.2019.08.001",
-        "checked": "2026-10-18"
-      },
-      {
-        "name": "OpenAlex",
-        "url": "https://openalex.org/W2996513216",
-        "checked": "2026-10-18"
-      }
-    ]
   },
   {
     "id": "10.1007/s001580050176",
