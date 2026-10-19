@@ -1,5 +1,40 @@
 [
   {
+    "id": "10.1007/s13202-026-02214-9",
+    "doi": "10.1007/s13202-026-02214-9",
+    "title": "Machine learning-based interfacial tension prediction for nanoparticles-assisted enhanced oil recovery",
+    "authors": [
+      "Youssef E. Kandiel",
+      "Omar Mahmoud",
+      "Ahmed Farid Ibrahim"
+    ],
+    "year": 2026,
+    "date": "2026-10-17",
+    "venue": "Journal of Petroleum Exploration and Production Technology",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s13202-026-02214-9",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-19",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs13202-026-02214-9",
+        "checked": "2026-10-19"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222806033",
+        "checked": "2026-10-19"
+      }
+    ]
+  },
+  {
     "id": "10.21203/rs.3.rs-11173852/v1",
     "doi": "10.21203/rs.3.rs-11173852/v1",
     "title": "Topologically Biomimetic Multicellular Structures Inspired by Pine Nut Shells for Enhanced Energy Absorption",
@@ -66,6 +101,42 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7160155953",
         "checked": "2026-10-17"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/2631-8695/aeb535",
+    "doi": "10.1088/2631-8695/aeb535",
+    "title": "Process-microstructure-anisotropy relationships in FFF-printed PLA/wood flour composites: Multiaxial ultrasonic determination of the orthotropic elastic tensor",
+    "authors": [
+      "Makki Ajmi",
+      "Slim Souissi",
+      "Simon Bernard",
+      "Pierre Maréchal"
+    ],
+    "year": 2026,
+    "date": "2026-10-16",
+    "venue": "Engineering Research Express",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/2631-8695/aeb535",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-19",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F2631-8695%2Faeb535",
+        "checked": "2026-10-19"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222600295",
+        "checked": "2026-10-19"
       }
     ]
   },
