@@ -1,5 +1,113 @@
 [
   {
+    "id": "10.64898/2026.10.11.758399",
+    "doi": "10.64898/2026.10.11.758399",
+    "title": "PATHNet: A Thermodynamic Path-Integral-Inspired Neural Network for Protein-Ligand Interaction Prediction",
+    "authors": [
+      "Ben Geoffrey A. S.",
+      "Abhishek Singh",
+      "Soumya Kanchan",
+      "Nagaraj M Kulkarni"
+    ],
+    "year": 2026,
+    "date": "2026-10-17",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.64898/2026.10.11.758399",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-20",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.64898%2F2026.10.11.758399",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222891858",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41598-026-76335-w",
+    "doi": "10.1038/s41598-026-76335-w",
+    "title": "Aerodynamic stability enhancement and nonlinear flutter control in piezoelectric integrated bolted multi-plate assemblies under dynamic flow conditions",
+    "authors": [
+      "Mehran Safarpour",
+      "Loke Kok Foong",
+      "Murat Yaylacı",
+      "Mustafa Bayram"
+    ],
+    "year": 2026,
+    "date": "2026-10-17",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-76335-w",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-20",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-76335-w",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222832335",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41598-026-75699-3",
+    "doi": "10.1038/s41598-026-75699-3",
+    "title": "Coupled analytical and finite element investigation of dynamic and cyclic response in cracked functionally graded beams",
+    "authors": [
+      "N. Anusha",
+      "S. Pachaiappan"
+    ],
+    "year": 2026,
+    "date": "2026-10-17",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-75699-3",
+    "topics": [
+      "plates",
+      "fem",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-20",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-75699-3",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222786149",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
     "id": "10.1007/s13202-026-02214-9",
     "doi": "10.1007/s13202-026-02214-9",
     "title": "Machine learning-based interfacial tension prediction for nanoparticles-assisted enhanced oil recovery",
