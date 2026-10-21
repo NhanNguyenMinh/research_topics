@@ -1,5 +1,200 @@
 [
   {
+    "id": "10.21203/rs.3.rs-11050717/v1",
+    "doi": "10.21203/rs.3.rs-11050717/v1",
+    "title": "Parametric Study of Honeycomb Core Geometry for Improving the Mechanical and Vibrational Performance of Copper Sandwich Panels",
+    "authors": [
+      "BABU K"
+    ],
+    "year": 2026,
+    "date": "2026-10-19",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11050717/v1",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-21",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11050717%2Fv1",
+        "checked": "2026-10-21"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222941696",
+        "checked": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/1361-6560/aeb642",
+    "doi": "10.1088/1361-6560/aeb642",
+    "title": "Imaging-derived coronary fractional flow reserve: advances in physics-based, machine learning, and physics-informed methods",
+    "authors": [
+      "Tanxin Zhu",
+      "Emran Hossen",
+      "Chen Zhao",
+      "Jingfeng Jiang",
+      "Michele Esposito",
+      "Jiguang Sun",
+      "Weihua Zhou"
+    ],
+    "year": 2026,
+    "date": "2026-10-19",
+    "venue": "Physics in Medicine & Biology",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/1361-6560/aeb642",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-21",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F1361-6560%2Faeb642",
+        "checked": "2026-10-21"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7130597237",
+        "checked": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41378-026-01470-3",
+    "doi": "10.1038/s41378-026-01470-3",
+    "title": "A fabrication-aware vectorized generative representation for topology optimization of path-defined MEMS microstructures",
+    "authors": [
+      "Gong-Zeng Liu",
+      "Lin-Feng Zhao",
+      "Jie Zhang",
+      "Xiang Liu",
+      "Yi-Meng Lv",
+      "Tian-Yu Geng",
+      "Zai-Fa Zhou"
+    ],
+    "year": 2026,
+    "date": "2026-10-19",
+    "venue": "Microsystems & Nanoengineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41378-026-01470-3",
+    "topics": [
+      "materials",
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-21",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41378-026-01470-3",
+        "checked": "2026-10-21"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222930828",
+        "checked": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/smll.76267",
+    "doi": "10.1002/smll.76267",
+    "title": "Sacrificial‐Template Fabrication of Orientation‐Controlled Porous Titanium Lattices With Bioactive Surfaces",
+    "authors": [
+      "Woo‐Youl Maeng",
+      "Jung‐Bin Lee",
+      "Tae Wan Park",
+      "Jaewon Choi",
+      "Kyung Su Kim",
+      "Yerim Lee",
+      "Hyeongu Hwang",
+      "Nayoung Lee",
+      "Sejin Choi",
+      "Minho Kang",
+      "Sang Jin Lee",
+      "Jahyun Koo",
+      "Hyun Lee",
+      "Minho Seong",
+      "Young‐Hag Koh"
+    ],
+    "year": 2026,
+    "date": "2026-10-18",
+    "venue": "Small",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/smll.76267",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-21",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fsmll.76267",
+        "checked": "2026-10-21"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222903619",
+        "checked": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/nme.70454",
+    "doi": "10.1002/nme.70454",
+    "title": "Nonlinear Thermoelastic Vibrations of Fractional Viscoelastic\n                    <scp>FGM</scp>\n                    Beams With Generalized Fractional Order Heat Conduction Model",
+    "authors": [
+      "M. Faraji Oskouie",
+      "A. Talebian",
+      "R. Ansari"
+    ],
+    "year": 2026,
+    "date": "2026-10-18",
+    "venue": "International Journal for Numerical Methods in Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/nme.70454",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-21",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fnme.70454",
+        "checked": "2026-10-21"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222956254",
+        "checked": "2026-10-21"
+      }
+    ]
+  },
+  {
     "id": "10.64898/2026.10.11.758399",
     "doi": "10.64898/2026.10.11.758399",
     "title": "PATHNet: A Thermodynamic Path-Integral-Inspired Neural Network for Protein-Ligand Interaction Prediction",
