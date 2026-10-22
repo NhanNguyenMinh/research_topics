@@ -1,5 +1,179 @@
 [
   {
+    "id": "10.1098/rspa.2026.0073",
+    "doi": "10.1098/rspa.2026.0073",
+    "title": "Dynamics-informed deep learning for predicting extreme events",
+    "authors": [
+      "Eirini Katsidoniotaki",
+      "Themistoklis P. Sapsis"
+    ],
+    "year": 2026,
+    "date": "2026-10-21",
+    "venue": "Proceedings of the Royal Society A Mathematical Physical and Engineering Science",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1098/rspa.2026.0073",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-22",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1098%2Frspa.2026.0073",
+        "checked": "2026-10-22"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7135035213",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "id": "10.66879/jmla.2026.64",
+    "doi": "10.66879/jmla.2026.64",
+    "title": "A Data-Driven Computational Framework for Predicting the Fundamental Natural Frequency of Thin Rectangular Plates",
+    "authors": [
+      "Shehryar Ahmed",
+      "Mehran Sudheer",
+      "Tahsin Ullah",
+      "Kefayat Ullah"
+    ],
+    "year": 2026,
+    "date": "2026-10-20",
+    "venue": "Journal of Machine Learning Advances",
+    "type": "journal-article",
+    "url": "https://doi.org/10.66879/jmla.2026.64",
+    "topics": [
+      "sciml",
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-22",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.66879%2Fjmla.2026.64",
+        "checked": "2026-10-22"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223022237",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11405567/v1",
+    "doi": "10.21203/rs.3.rs-11405567/v1",
+    "title": "Dynamic LeJEPA: Maximum Entropy Representations for Sequential Prediction and Latent Planning with Theoretical Guarantees",
+    "authors": [
+      "Mohsen Mostafa"
+    ],
+    "year": 2026,
+    "date": "2026-10-20",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11405567/v1",
+    "topics": [
+      "rom"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-22",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11405567%2Fv1",
+        "checked": "2026-10-22"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223032215",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "id": "10.1137/25m1762725",
+    "doi": "10.1137/25m1762725",
+    "title": "Consistency of Variational Inference for Nonlinear Inverse Problems of Partial Differential Equations",
+    "authors": [
+      "Shaokang Zu",
+      "Junxiong Jia",
+      "Deyu Meng"
+    ],
+    "year": 2026,
+    "date": "2026-10-20",
+    "venue": "SIAM/ASA Journal on Uncertainty Quantification",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1137/25m1762725",
+    "topics": [
+      "inverse"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-22",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1137%2F25m1762725",
+        "checked": "2026-10-22"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W4403809302",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s00707-026-04852-w",
+    "doi": "10.1007/s00707-026-04852-w",
+    "title": "Stochastic robust control of graphene origami-reinforced stepped annular plates: patch optimization and mathematical modeling based on and Monte Carlo LQR performance",
+    "authors": [
+      "Zhuo Gao",
+      "Ali Ghasemi"
+    ],
+    "year": 2026,
+    "date": "2026-10-20",
+    "venue": "Acta Mechanica",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s00707-026-04852-w",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-22",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs00707-026-04852-w",
+        "checked": "2026-10-22"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223050128",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
     "id": "10.21203/rs.3.rs-11050717/v1",
     "doi": "10.21203/rs.3.rs-11050717/v1",
     "title": "Parametric Study of Honeycomb Core Geometry for Improving the Mechanical and Vibrational Performance of Copper Sandwich Panels",
