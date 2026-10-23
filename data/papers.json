@@ -1,5 +1,79 @@
 [
   {
+    "id": "10.21203/rs.3.rs-11202759/v1",
+    "doi": "10.21203/rs.3.rs-11202759/v1",
+    "title": "Physics-Informed Neural Network with Adaptive Path Compensation for Intelligent Corner Error Prediction in Wire Electrical Discharge Machining",
+    "authors": [
+      "Esubalew Asmare Desta",
+      "R Pandithurai",
+      "Kanagaraj Ganesan",
+      "Abenet Alazar Hailu",
+      "Melsew Belachew Fentahun"
+    ],
+    "year": 2026,
+    "date": "2026-10-21",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11202759/v1",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-23",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11202759%2Fv1",
+        "checked": "2026-10-23"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223098276",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-10480667/v1",
+    "doi": "10.21203/rs.3.rs-10480667/v1",
+    "title": "Computational fracture modelling of polymer-bonded explosives and solid propellants: A critical review of local and nonlocal continuum formulations and discrete particle approaches",
+    "authors": [
+      "Hanwen Liu",
+      "Xiaolong Fu",
+      "Jiangning Wang",
+      "Xitong Zhao",
+      "Saiqin Meng"
+    ],
+    "year": 2026,
+    "date": "2026-10-21",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-10480667/v1",
+    "topics": [
+      "fracture"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-23",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-10480667%2Fv1",
+        "checked": "2026-10-23"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223137879",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
     "id": "10.1098/rspa.2026.0073",
     "doi": "10.1098/rspa.2026.0073",
     "title": "Dynamics-informed deep learning for predicting extreme events",
@@ -30,6 +104,40 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7135035213",
         "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "id": "10.1017/jfm.2026.12172",
+    "doi": "10.1017/jfm.2026.12172",
+    "title": "A practical guide to machine learning in fluid mechanics: an encoder–decoder perspective",
+    "authors": [
+      "Kai Fukami",
+      "Koji Fukagata"
+    ],
+    "year": 2026,
+    "date": "2026-10-21",
+    "venue": "Journal of Fluid Mechanics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1017/jfm.2026.12172",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-23",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1017%2Fjfm.2026.12172",
+        "checked": "2026-10-23"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223058850",
+        "checked": "2026-10-23"
       }
     ]
   },
@@ -67,6 +175,39 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7223022237",
         "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "id": "10.24107/ijeas.1953256",
+    "doi": "10.24107/ijeas.1953256",
+    "title": "A Laplace Transform Approach for the Size-Dependent Static Analysis of Laminated Composite Micro-Beams Using Modified Couple Stress Theory",
+    "authors": [
+      "Şeref D. Akbaş"
+    ],
+    "year": 2026,
+    "date": "2026-10-20",
+    "venue": "International Journal of Engineering and Applied Sciences",
+    "type": "journal-article",
+    "url": "https://doi.org/10.24107/ijeas.1953256",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-23",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.24107%2Fijeas.1953256",
+        "checked": "2026-10-23"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223010435",
+        "checked": "2026-10-23"
       }
     ]
   },
@@ -135,6 +276,43 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W4403809302",
         "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41598-026-75991-2",
+    "doi": "10.1038/s41598-026-75991-2",
+    "title": "Explainable machine learning reveals a compact, low-dimensional geometric basis underlying sheet and skeletal TPMS architected materials",
+    "authors": [
+      "Georgios Mermigkis",
+      "Chrysovalantis-Michail Liakopoulos",
+      "Dimitrios C. Rodopoulos",
+      "Panagiotis Hadjidoukas",
+      "Nikolaos Karathanasopoulos"
+    ],
+    "year": 2026,
+    "date": "2026-10-20",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-75991-2",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-23",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-75991-2",
+        "checked": "2026-10-23"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7222997850",
+        "checked": "2026-10-23"
       }
     ]
   },
