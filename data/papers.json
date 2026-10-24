@@ -1,5 +1,114 @@
 [
   {
+    "id": "10.21203/rs.3.rs-10804825/v1",
+    "doi": "10.21203/rs.3.rs-10804825/v1",
+    "title": "Overcoming conventional trade-offs in strain sensing with physics-guided inverse design of aperiodic architected nanocomposites",
+    "authors": [
+      "Francisco Molina-Lopez",
+      "Viktor Naenen",
+      "Stijn De Smedt",
+      "Altynay Kaidarova",
+      "Ruth Cardinaels"
+    ],
+    "year": 2026,
+    "date": "2026-10-22",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-10804825/v1",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-24",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-10804825%2Fv1",
+        "checked": "2026-10-24"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223176311",
+        "checked": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "id": "10.1103/29cy-4r99",
+    "doi": "10.1103/29cy-4r99",
+    "title": "Dropout neural network training viewed from a percolation perspective",
+    "authors": [
+      "Finley Devlin",
+      "Jaron Sanders"
+    ],
+    "year": 2026,
+    "date": "2026-10-22",
+    "venue": "Physical Review E",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1103/29cy-4r99",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-24",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1103%2F29cy-4r99",
+        "checked": "2026-10-24"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W4417464808",
+        "checked": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41528-026-00656-z",
+    "doi": "10.1038/s41528-026-00656-z",
+    "title": "Machine learning–driven structural optimization of zigzag silk fibroin ionic conductors for spatially resolved wearable motion detection",
+    "authors": [
+      "Yunhao Yang",
+      "Sijia Sun",
+      "Cheng Xu",
+      "Jing Ren",
+      "Shengjie Ling"
+    ],
+    "year": 2026,
+    "date": "2026-10-22",
+    "venue": "npj Flexible Electronics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41528-026-00656-z",
+    "topics": [
+      "sciml",
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-24",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41528-026-00656-z",
+        "checked": "2026-10-24"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223127941",
+        "checked": "2026-10-24"
+      }
+    ]
+  },
+  {
     "id": "10.21203/rs.3.rs-11202759/v1",
     "doi": "10.21203/rs.3.rs-11202759/v1",
     "title": "Physics-Informed Neural Network with Adaptive Path Compensation for Intelligent Corner Error Prediction in Wire Electrical Discharge Machining",
