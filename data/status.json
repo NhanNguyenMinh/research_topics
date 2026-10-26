@@ -1,19 +1,15 @@
 {
-  "data_updated_at": "2026-10-24T04:39:50.979481+00:00",
-  "last_attempt_at": "2026-10-25T04:44:30.604773+00:00",
-  "message": "Đã bổ sung 0 công bố; đối chiếu 0 DOI. Một số nguồn chưa kiểm tra được; giữ lại dữ liệu hiện có.",
-  "added": 0,
-  "checked": 0,
-  "rejected": 0,
+  "data_updated_at": "2026-10-26T04:50:24.470901+00:00",
+  "last_attempt_at": "2026-10-26T04:50:24.470901+00:00",
+  "message": "Đã bổ sung 6 công bố; đối chiếu 20 DOI. Một số nguồn chưa kiểm tra được; giữ lại dữ liệu hiện có.",
+  "added": 6,
+  "checked": 20,
+  "rejected": 14,
   "state": "partial",
   "errors": [
-    "sciml: HTTPError",
-    "plates: HTTPError",
-    "fem: HTTPError",
-    "materials: HTTPError",
-    "inverse: HTTPError",
-    "design: HTTPError",
-    "rom: HTTPError",
-    "fracture: HTTPError"
+    "Crossref: HTTPError",
+    "Crossref: HTTPError",
+    "Crossref: HTTPError",
+    "Crossref: HTTPError"
   ]
 }

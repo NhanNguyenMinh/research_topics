@@ -1,5 +1,228 @@
 [
   {
+    "id": "10.18686/cest823",
+    "doi": "10.18686/cest823",
+    "title": "Intelligent automation and neural networks for enhanced energy efficiency in ESPs systems: Optimizing chemical injection in Nantu 31",
+    "authors": [
+      "Manolo Córdova",
+      "Juan Córdova",
+      "Segundo Espín",
+      "Juan Paredes",
+      "Alex Mayorga"
+    ],
+    "year": 2026,
+    "date": "2026-10-23",
+    "venue": "Clean Energy Science and Technology",
+    "type": "journal-article",
+    "url": "https://doi.org/10.18686/cest823",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.18686%2Fcest823",
+        "checked": "2026-10-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223267623",
+        "checked": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "id": "10.13052/ejcm2642-2085.3522",
+    "doi": "10.13052/ejcm2642-2085.3522",
+    "title": "Performance Evaluation Research of Digital Twin Model of Knife Gate Based on Finite Element Analysis Under Temperature Rise",
+    "authors": [
+      "Long Na",
+      "Gan Rundong"
+    ],
+    "year": 2026,
+    "date": "2026-10-23",
+    "venue": "European Journal of Computational Mechanics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.13052/ejcm2642-2085.3522",
+    "topics": [
+      "fem"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.13052%2Fejcm2642-2085.3522",
+        "checked": "2026-10-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223386682",
+        "checked": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "id": "10.1137/26m1839136",
+    "doi": "10.1137/26m1839136",
+    "title": "Discontinuous Galerkin Finite Element Operator Network for Solving Non-Smooth PDEs",
+    "authors": [
+      "Kapil Chawla",
+      "Youngjoon Hong",
+      "Jae Yong Lee",
+      "Sanghyun Lee"
+    ],
+    "year": 2026,
+    "date": "2026-10-23",
+    "venue": "SIAM Journal on Scientific Computing",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1137/26m1839136",
+    "topics": [
+      "fem"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1137%2F26m1839136",
+        "checked": "2026-10-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7119519539",
+        "checked": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "id": "10.1080/17452759.2026.2746301",
+    "doi": "10.1080/17452759.2026.2746301",
+    "title": "Design and additive manufacturing of alveolar-inspired metallic porous structures via Organic-Coordination Precursor Stereolithography",
+    "authors": [
+      "Renjie Ji",
+      "Fanbo Meng",
+      "Yonghong Liu",
+      "Qihang Dai",
+      "Lixin Wang",
+      "Dahao Han",
+      "Yongjie Cheng",
+      "Tianyu Liu"
+    ],
+    "year": 2026,
+    "date": "2026-10-23",
+    "venue": "Virtual and Physical Prototyping",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1080/17452759.2026.2746301",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1080%2F17452759.2026.2746301",
+        "checked": "2026-10-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223318667",
+        "checked": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s44334-026-00118-4",
+    "doi": "10.1038/s44334-026-00118-4",
+    "title": "Continuum meso-macro multiscale modeling of anisotropy during sintering of parts produced via additive manufacturing",
+    "authors": [
+      "Thomas Grippi",
+      "Elisa Torresani",
+      "Runjian Jiang",
+      "Andrii Maximenko",
+      "Diletta Giuntini",
+      "Marc van Maris",
+      "John Kang",
+      "Nicholas Saterlee",
+      "Rajendra Bordia",
+      "Eugene Olevsky"
+    ],
+    "year": 2026,
+    "date": "2026-10-23",
+    "venue": "npj Advanced Manufacturing",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s44334-026-00118-4",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs44334-026-00118-4",
+        "checked": "2026-10-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223261259",
+        "checked": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "id": "10.31224/8537",
+    "doi": "10.31224/8537",
+    "title": "three-dimensional high-order geometry-aligned immersed finite element method for elliptic interface problems",
+    "authors": [
+      "Chang Lu",
+      "Tao Lin"
+    ],
+    "year": 2026,
+    "date": "2026-10-22",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.31224/8537",
+    "topics": [
+      "fem"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.31224%2F8537",
+        "checked": "2026-10-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223246508",
+        "checked": "2026-10-26"
+      }
+    ]
+  },
+  {
     "id": "10.21203/rs.3.rs-10804825/v1",
     "doi": "10.21203/rs.3.rs-10804825/v1",
     "title": "Overcoming conventional trade-offs in strain sensing with physics-guided inverse design of aperiodic architected nanocomposites",
