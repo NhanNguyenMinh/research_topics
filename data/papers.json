@@ -1,5 +1,122 @@
 [
   {
+    "id": "10.1186/s40323-026-00341-w",
+    "doi": "10.1186/s40323-026-00341-w",
+    "title": "Machine learning-based reduced order modeling for thermal simulation calibration in wire arc additive manufacturing",
+    "authors": [
+      "Mikhael Tannous",
+      "Mostafa Elsayed",
+      "Abdallah Elmansy",
+      "Aurora López",
+      "Paul David Rosero-Montalvo",
+      "Dina Fouad",
+      "Moataz Attallah",
+      "Mustafa Megahed",
+      "Chady Ghnatios",
+      "Francisco Chinesta"
+    ],
+    "year": 2026,
+    "date": "2026-10-25",
+    "venue": "Advanced Modeling and Simulation in Engineering Sciences",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1186/s40323-026-00341-w",
+    "topics": [
+      "sciml",
+      "rom"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-27",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1186%2Fs40323-026-00341-w",
+        "checked": "2026-10-27"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223568084",
+        "checked": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s41939-026-01275-x",
+    "doi": "10.1007/s41939-026-01275-x",
+    "title": "Time-varying fluid mechanics of chemically reactive viscous fluid moving in a porous medium between two parallel plates",
+    "authors": [
+      "B. S. Sanju",
+      "R. Naveen Kumar",
+      "R. J. Punith Gowda",
+      "R. S. Varun Kumar",
+      "Harikaranahalli Puttaiah Shivaraju"
+    ],
+    "year": 2026,
+    "date": "2026-10-24",
+    "venue": "Multiscale and Multidisciplinary Modeling, Experiments and Design",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s41939-026-01275-x",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-27",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs41939-026-01275-x",
+        "checked": "2026-10-27"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223452668",
+        "checked": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/rar2.70647",
+    "doi": "10.1002/rar2.70647",
+    "title": "Recent Progress in Predicting Corrosion Evolution and Degradation of Aluminum Alloys by Multiscale Simulation Frameworks",
+    "authors": [
+      "Yue Hou",
+      "Xiaopeng Cheng",
+      "Shougang Chen",
+      "Tao Li"
+    ],
+    "year": 2026,
+    "date": "2026-10-24",
+    "venue": "Rare Metals",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/rar2.70647",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-27",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Frar2.70647",
+        "checked": "2026-10-27"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223443287",
+        "checked": "2026-10-27"
+      }
+    ]
+  },
+  {
     "id": "10.18686/cest823",
     "doi": "10.18686/cest823",
     "title": "Intelligent automation and neural networks for enhanced energy efficiency in ESPs systems: Optimizing chemical injection in Nantu 31",
@@ -143,6 +260,42 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7223318667",
         "checked": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "id": "10.1080/17452759.2026.2745273",
+    "doi": "10.1080/17452759.2026.2745273",
+    "title": "Topology-guided shell–truss transition design for additively manufactured TPMS scaffold metamaterials",
+    "authors": [
+      "Yuping Han",
+      "Yaguang Wang",
+      "Xiaopeng Zhang",
+      "Zhan Kang"
+    ],
+    "year": 2026,
+    "date": "2026-10-23",
+    "venue": "Virtual and Physical Prototyping",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1080/17452759.2026.2745273",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-27",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1080%2F17452759.2026.2745273",
+        "checked": "2026-10-27"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223302835",
+        "checked": "2026-10-27"
       }
     ]
   },
