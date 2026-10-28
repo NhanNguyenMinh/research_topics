@@ -1,5 +1,149 @@
 [
   {
+    "id": "10.1186/s40069-026-00982-6",
+    "doi": "10.1186/s40069-026-00982-6",
+    "title": "Flexural Performance Evaluation of RC Beams Strengthened with Cementitious Composites under Static and Fatigue Loading: A Comprehensive Review",
+    "authors": [
+      "Mohammadsina Sharifi Ghalehnoei",
+      "Kiachehr Behfarnia"
+    ],
+    "year": 2026,
+    "date": "2026-10-26",
+    "venue": "International Journal of Concrete Structures and Materials",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1186/s40069-026-00982-6",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-28",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1186%2Fs40069-026-00982-6",
+        "checked": "2026-10-28"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223692744",
+        "checked": "2026-10-28"
+      }
+    ]
+  },
+  {
+    "id": "10.1137/25m1733938",
+    "doi": "10.1137/25m1733938",
+    "title": "Topological Derivative Approach for Deep Neural Network Architecture Adaptation",
+    "authors": [
+      "C. G. Krishnanunni",
+      "Tan Bui-Thanh",
+      "Clint Dawson"
+    ],
+    "year": 2026,
+    "date": "2026-10-26",
+    "venue": "SIAM Journal on Scientific Computing",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1137/25m1733938",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-28",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1137%2F25m1733938",
+        "checked": "2026-10-28"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W4407422992",
+        "checked": "2026-10-28"
+      }
+    ]
+  },
+  {
+    "id": "10.1080/0305215x.2026.2746638",
+    "doi": "10.1080/0305215x.2026.2746638",
+    "title": "Overlap-free multi-material topology optimization for minimum compliance in two and three dimensions by level-set-based negative-mapping interpolation",
+    "authors": [
+      "Dong Wang",
+      "Qianglin Ran",
+      "Xuanliang Wang",
+      "Wei Xiang",
+      "Wenming Cheng",
+      "Run Du"
+    ],
+    "year": 2026,
+    "date": "2026-10-26",
+    "venue": "Engineering Optimization",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1080/0305215x.2026.2746638",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-28",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1080%2F0305215x.2026.2746638",
+        "checked": "2026-10-28"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7203784759",
+        "checked": "2026-10-28"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s13349-026-01150-w",
+    "doi": "10.1007/s13349-026-01150-w",
+    "title": "Physics-informed semi-supervised LSTM autoencoder framework for force-agnostic structural health monitoring",
+    "authors": [
+      "Smriti Sharma",
+      "John Leander",
+      "Raid Karoumi"
+    ],
+    "year": 2026,
+    "date": "2026-10-26",
+    "venue": "Journal of Civil Structural Health Monitoring",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s13349-026-01150-w",
+    "topics": [
+      "sciml",
+      "inverse",
+      "rom"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-28",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs13349-026-01150-w",
+        "checked": "2026-10-28"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223654034",
+        "checked": "2026-10-28"
+      }
+    ]
+  },
+  {
     "id": "10.1186/s40323-026-00341-w",
     "doi": "10.1186/s40323-026-00341-w",
     "title": "Machine learning-based reduced order modeling for thermal simulation calibration in wire arc additive manufacturing",
@@ -39,6 +183,46 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7223568084",
         "checked": "2026-10-27"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/smtd.71142",
+    "doi": "10.1002/smtd.71142",
+    "title": "Depth‐Aware Machine Learning for 3D Reconstruction of Fibrous Porous Electrodes by FIB‐SEM Tomography",
+    "authors": [
+      "Carlota Bozal‐Ginesta",
+      "Claudia Bissattini Alessi",
+      "Peng Zeng",
+      "Julie Ruellou",
+      "Jakub Drnec",
+      "Alessandro Senocrate",
+      "Corsin Battaglia"
+    ],
+    "year": 2026,
+    "date": "2026-10-25",
+    "venue": "Small Methods",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/smtd.71142",
+    "topics": [
+      "sciml",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-28",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fsmtd.71142",
+        "checked": "2026-10-28"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7221776649",
+        "checked": "2026-10-28"
       }
     ]
   },
