@@ -1,5 +1,79 @@
 [
   {
+    "id": "10.21203/rs.3.rs-11490519/v1",
+    "doi": "10.21203/rs.3.rs-11490519/v1",
+    "title": "Physics-Constrained Machine Learning for Predicting Photovoltaic Performance of 3-Hexylthiophene Decamer:JSM5 Active Layer Integrating Quantum Chemistry and Molecular Dynamics.",
+    "authors": [
+      "Eninges Asmare"
+    ],
+    "year": 2026,
+    "date": "2026-10-27",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11490519/v1",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-29",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11490519%2Fv1",
+        "checked": "2026-10-29"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223649078",
+        "checked": "2026-10-29"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11370616/v1",
+    "doi": "10.21203/rs.3.rs-11370616/v1",
+    "title": "A Meshless Collocation Framework for Free Vibration Analysis of Multilayer Functionally Graded Hyperelastic Beams with Experimental Validation and ANN Prediction",
+    "authors": [
+      "Qahtan A Jawad",
+      "Haider Khazal",
+      "Darya Ahmadova",
+      "Deekshant Varshney",
+      "Subhav Singh",
+      "Narinderjit Singh Sawaran Singh",
+      "Omid Azarniya"
+    ],
+    "year": 2026,
+    "date": "2026-10-27",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11370616/v1",
+    "topics": [
+      "plates",
+      "fem",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-29",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11370616%2Fv1",
+        "checked": "2026-10-29"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223781160",
+        "checked": "2026-10-29"
+      }
+    ]
+  },
+  {
     "id": "10.1186/s40069-026-00982-6",
     "doi": "10.1186/s40069-026-00982-6",
     "title": "Flexural Performance Evaluation of RC Beams Strengthened with Cementitious Composites under Static and Fatigue Loading: A Comprehensive Review",
