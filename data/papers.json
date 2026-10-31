@@ -1,5 +1,148 @@
 [
   {
+    "id": "10.3390/jcs10110578",
+    "doi": "10.3390/jcs10110578",
+    "title": "Mechanics-Informed Non-Dimensionalisation and Physics-Constrained Neural Surrogates for the Buckling of Laminated Composite Plates, with Independent Cross-Ply External Validation",
+    "authors": [
+      "Jubayer Ahmed Sajid",
+      "Ivan Grgić",
+      "Monmoy Paul",
+      "Vivek Kumar Tiwary"
+    ],
+    "year": 2026,
+    "date": "2026-10-29",
+    "venue": "Journal of Composites Science",
+    "type": "journal-article",
+    "url": "https://doi.org/10.3390/jcs10110578",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-31",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.3390%2Fjcs10110578",
+        "checked": "2026-10-31"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224191358",
+        "checked": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "10.1063/5.0358326",
+    "doi": "10.1063/5.0358326",
+    "title": "Turning time series into algebraic equations: Symbolic machine learning for interpretable modeling of chaotic time series",
+    "authors": [
+      "Madhurima Panja",
+      "Grace Younes",
+      "Chittaranjan Hens",
+      "Tanujit Chakraborty"
+    ],
+    "year": 2026,
+    "date": "2026-10-29",
+    "venue": "APL Machine Learning",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1063/5.0358326",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-31",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1063%2F5.0358326",
+        "checked": "2026-10-31"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7134855262",
+        "checked": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "10.1017/jfm.2026.12069",
+    "doi": "10.1017/jfm.2026.12069",
+    "title": "Turbulence generation and data assimilation in wall-bounded flows with a latent diffusion model",
+    "authors": [
+      "Fabian Steinbrenner",
+      "Baris Turan",
+      "Hao Teng",
+      "Heng Xiao"
+    ],
+    "year": 2026,
+    "date": "2026-10-29",
+    "venue": "Journal of Fluid Mechanics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1017/jfm.2026.12069",
+    "topics": [
+      "rom"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-31",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1017%2Fjfm.2026.12069",
+        "checked": "2026-10-31"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7133316177",
+        "checked": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s10614-026-11442-4",
+    "doi": "10.1007/s10614-026-11442-4",
+    "title": "Data-Driven Option Pricing: Neural Network Learning of the Time-Fractional Black–Scholes Model with Market Validation",
+    "authors": [
+      "Jaspreet Kaur",
+      "Srinivasan Natesan",
+      "Arnav Gupta"
+    ],
+    "year": 2026,
+    "date": "2026-10-29",
+    "venue": "Computational Economics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s10614-026-11442-4",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-31",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs10614-026-11442-4",
+        "checked": "2026-10-31"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224639283",
+        "checked": "2026-10-31"
+      }
+    ]
+  },
+  {
     "id": "10.59400/mea4473",
     "doi": "10.59400/mea4473",
     "title": "A Unified Analytical Framework for Modal Analysis of Beams with Elastic Supports and End Masses",
@@ -68,6 +211,45 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W4394930526",
         "checked": "2026-10-30"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/1361-665x/aebace",
+    "doi": "10.1088/1361-665x/aebace",
+    "title": "Metabeams with intrinsic tension-rotation and tension-shear-rotation couplings for tailoring auxeticity",
+    "authors": [
+      "Haishan Tang",
+      "Wenqian Zhang",
+      "Chenglin Zhang",
+      "Yujin Hu",
+      "Ling Ling",
+      "Li Li"
+    ],
+    "year": 2026,
+    "date": "2026-10-28",
+    "venue": "Smart Materials and Structures",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/1361-665x/aebace",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-10-31",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F1361-665x%2Faebace",
+        "checked": "2026-10-31"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224132960",
+        "checked": "2026-10-31"
       }
     ]
   },
