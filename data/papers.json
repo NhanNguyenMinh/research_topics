@@ -1,5 +1,42 @@
 [
   {
+    "id": "10.1115/1.4072775",
+    "doi": "10.1115/1.4072775",
+    "title": "Statistical Design of Thermal Protection System Using Physics-Informed Neural Network",
+    "authors": [
+      "Karthik Reddy Lyathakula",
+      "Muhammad Aseem",
+      "Basab Ranjan Das Goswami",
+      "Sevki Cesmeci",
+      "Dhanraj Burragallae"
+    ],
+    "year": 2026,
+    "date": "2026-10-30",
+    "venue": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1115/1.4072775",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-01",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1115%2F1.4072775",
+        "checked": "2026-11-01"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W4407013016",
+        "checked": "2026-11-01"
+      }
+    ]
+  },
+  {
     "id": "10.3390/jcs10110578",
     "doi": "10.3390/jcs10110578",
     "title": "Mechanics-Informed Non-Dimensionalisation and Physics-Constrained Neural Surrogates for the Buckling of Laminated Composite Plates, with Independent Cross-Ply External Validation",
@@ -32,6 +69,193 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7224191358",
         "checked": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "10.21595/jve.2026.26846",
+    "doi": "10.21595/jve.2026.26846",
+    "title": "Constrained dynamic optimization of bidirectional porous functionally graded beams using Touratier higher-order shear deformation theory",
+    "authors": [
+      "Slimane Debbaghi"
+    ],
+    "year": 2026,
+    "date": "2026-10-29",
+    "venue": "Journal of Vibroengineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.21595/jve.2026.26846",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-01",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21595%2Fjve.2026.26846",
+        "checked": "2026-11-01"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224348771",
+        "checked": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11369956/v1",
+    "doi": "10.21203/rs.3.rs-11369956/v1",
+    "title": "Isogeometric thermal buckling analysis of variable-stiffness laminated plates with delamination using a multi-point constraint approach",
+    "authors": [
+      "Chengyi Zhu",
+      "Hongyu Tian",
+      "Changfu Hu"
+    ],
+    "year": 2026,
+    "date": "2026-10-29",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11369956/v1",
+    "topics": [
+      "plates",
+      "fem"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-01",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11369956%2Fv1",
+        "checked": "2026-11-01"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224480930",
+        "checked": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "10.1186/s44147-026-01305-y",
+    "doi": "10.1186/s44147-026-01305-y",
+    "title": "Investigation of rock-mass fragmentation by explosive charges using interpretable machine learning and literature-derived air-deck and related decked-charge blasting data",
+    "authors": [
+      "Shukhratulla Ochilov",
+      "Bahrom Urunov",
+      "Umirzokov Azamat",
+      "Begzod Yaxshiyev",
+      "Asqar Karamanov",
+      "Ibrakhim Kushnazorov",
+      "Sarvinoz Raimkulova",
+      "Nargiza Dexkonova",
+      "Abboskhanova Orzugulkhon",
+      "Raxmatulloyev Javohir"
+    ],
+    "year": 2026,
+    "date": "2026-10-29",
+    "venue": "Journal of Engineering and Applied Science",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1186/s44147-026-01305-y",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-01",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1186%2Fs44147-026-01305-y",
+        "checked": "2026-11-01"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224178907",
+        "checked": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "10.1177/10812865261498807",
+    "doi": "10.1177/10812865261498807",
+    "title": "Data-driven three-dimensional topology optimization using the ResUNet-based generative adversarial network",
+    "authors": [
+      "Jicheng Li",
+      "Yongjia Dong",
+      "Sujun Wang",
+      "Hongling Ye"
+    ],
+    "year": 2026,
+    "date": "2026-10-29",
+    "venue": "Mathematics and Mechanics of Solids",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1177/10812865261498807",
+    "topics": [
+      "sciml",
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-01",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1177%2F10812865261498807",
+        "checked": "2026-11-01"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224739763",
+        "checked": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "10.1080/26889277.2026.2750594",
+    "doi": "10.1080/26889277.2026.2750594",
+    "title": "Statistical Overlay of CFRP Strain Fields from Digital Image Correlation for Finite Element Analysis Validation",
+    "authors": [
+      "Dominik Motlib",
+      "James Rouse",
+      "Richard Evans",
+      "Andrew Parsons",
+      "James Finlayson",
+      "Chris Bennett"
+    ],
+    "year": 2026,
+    "date": "2026-10-29",
+    "venue": "European Journal of Materials",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1080/26889277.2026.2750594",
+    "topics": [
+      "fem"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-01",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1080%2F26889277.2026.2750594",
+        "checked": "2026-11-01"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224606839",
+        "checked": "2026-11-01"
       }
     ]
   },
@@ -72,6 +296,40 @@
     ]
   },
   {
+    "id": "10.1038/s41598-026-71823-5",
+    "doi": "10.1038/s41598-026-71823-5",
+    "title": "A Caputo fractional physics-informed neural network for Lorenz chaotic systems",
+    "authors": [
+      "A. Baskar",
+      "S. Naveen"
+    ],
+    "year": 2026,
+    "date": "2026-10-29",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-71823-5",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-01",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-71823-5",
+        "checked": "2026-11-01"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224216200",
+        "checked": "2026-11-01"
+      }
+    ]
+  },
+  {
     "id": "10.1017/jfm.2026.12069",
     "doi": "10.1017/jfm.2026.12069",
     "title": "Turbulence generation and data assimilation in wall-bounded flows with a latent diffusion model",
@@ -104,6 +362,42 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7133316177",
         "checked": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s40964-026-02033-8",
+    "doi": "10.1007/s40964-026-02033-8",
+    "title": "Physics-guided inverse design of energy-absorbing graded auxetic metamaterials via layer-wise decomposition and deep learning",
+    "authors": [
+      "Sima Farshbaf",
+      "Narges Dialami"
+    ],
+    "year": 2026,
+    "date": "2026-10-29",
+    "venue": "Progress in Additive Manufacturing",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s40964-026-02033-8",
+    "topics": [
+      "sciml",
+      "materials",
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-01",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs40964-026-02033-8",
+        "checked": "2026-11-01"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224679031",
+        "checked": "2026-11-01"
       }
     ]
   },
