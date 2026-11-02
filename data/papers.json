@@ -1,5 +1,41 @@
 [
   {
+    "id": "10.1371/journal.pone.0360923",
+    "doi": "10.1371/journal.pone.0360923",
+    "title": "An integrated machine learning framework for cerebral aneurysm rupture status classification using clinical, morphological, and hemodynamic features",
+    "authors": [
+      "Mostafa Zakeri",
+      "Amirhossein Atef",
+      "Mohammad Aziznia",
+      "Azadeh Jafari"
+    ],
+    "year": 2026,
+    "date": "2026-10-30",
+    "venue": "PLOS One",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1371/journal.pone.0360923",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-02",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0360923",
+        "checked": "2026-11-02"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224775446",
+        "checked": "2026-11-02"
+      }
+    ]
+  },
+  {
     "id": "10.1115/1.4072775",
     "doi": "10.1115/1.4072775",
     "title": "Statistical Design of Thermal Protection System Using Physics-Informed Neural Network",
@@ -33,6 +69,112 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W4407013016",
         "checked": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/1402-4896/aebbfc",
+    "doi": "10.1088/1402-4896/aebbfc",
+    "title": "Simultaneous optimization of GPL distribution and GPL volume fraction for frequency-constrained design of AFG-GPL curved beams using MSS-IGP",
+    "authors": [
+      "Yuhao Yan",
+      "Shijie Zheng",
+      "Yanan Liang"
+    ],
+    "year": 2026,
+    "date": "2026-10-30",
+    "venue": "Physica Scripta",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/1402-4896/aebbfc",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-02",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F1402-4896%2Faebbfc",
+        "checked": "2026-11-02"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224762958",
+        "checked": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41597-026-08450-2",
+    "doi": "10.1038/s41597-026-08450-2",
+    "title": "TrussGraph: A dataset of graph-based trusses for machine learning and structural design applications",
+    "authors": [
+      "Ioannis Mirtsopoulos",
+      "Abderaouf Gacem",
+      "Jacqueline Pauli"
+    ],
+    "year": 2026,
+    "date": "2026-10-30",
+    "venue": "Scientific Data",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41597-026-08450-2",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-02",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41597-026-08450-2",
+        "checked": "2026-11-02"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7140200042",
+        "checked": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/msd2.70095",
+    "doi": "10.1002/msd2.70095",
+    "title": "Finite‐Difference Reduced Transfer Matrix Method for Multibody Systems With Rotating Beams",
+    "authors": [
+      "Ziyao Ma",
+      "Hanjing Lu",
+      "Caishan Liu",
+      "Xiaoting Rui"
+    ],
+    "year": 2026,
+    "date": "2026-10-30",
+    "venue": "International Journal of Mechanical System Dynamics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/msd2.70095",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-02",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fmsd2.70095",
+        "checked": "2026-11-02"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7224829944",
+        "checked": "2026-11-02"
       }
     ]
   },
