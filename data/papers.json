@@ -1,5 +1,39 @@
 [
   {
+    "id": "10.1108/mlag-02-2026-0003",
+    "doi": "10.1108/mlag-02-2026-0003",
+    "title": "Application of long short-term memory and convolutional neural networks for real-time bridge pier scour prediction",
+    "authors": [
+      "Tahrima Hashem",
+      "Negin Yousefpour"
+    ],
+    "year": 2026,
+    "date": "2026-11-02",
+    "venue": "Machine Learning and Data Science in Geotechnics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1108/mlag-02-2026-0003",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-03",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1108%2Fmlag-02-2026-0003",
+        "checked": "2026-11-03"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W4399659777",
+        "checked": "2026-11-03"
+      }
+    ]
+  },
+  {
     "id": "10.1371/journal.pone.0360923",
     "doi": "10.1371/journal.pone.0360923",
     "title": "An integrated machine learning framework for cerebral aneurysm rupture status classification using clinical, morphological, and hemodynamic features",
