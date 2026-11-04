@@ -1,5 +1,188 @@
 [
   {
+    "id": "10.1021/acsomega.6c08678",
+    "doi": "10.1021/acsomega.6c08678",
+    "title": "Thermodynamically Constrained Deep Learning for Hydrogen\nSorption Prediction: Overcoming Classical Isotherm Generalization\nFailure through Physics-Informed Cross-Lithology Transferability",
+    "authors": [
+      "Mohammad Nooraiepour",
+      "Mohammad Masoudi",
+      "Zezhang Song",
+      "Helge Hellevang"
+    ],
+    "year": 2026,
+    "date": "2026-11-03",
+    "venue": "ACS Omega",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1021/acsomega.6c08678",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-04",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1021%2Facsomega.6c08678",
+        "checked": "2026-11-04"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7147409806",
+        "checked": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "id": "10.7753/ijcatr1511.1004",
+    "doi": "10.7753/ijcatr1511.1004",
+    "title": "Physics Informed Transformer Failure Prediction Using Dissolved Gas Analysis, Thermal Aging Models, and Load Profiles",
+    "authors": [
+      "Bismark Yeboah"
+    ],
+    "year": 2026,
+    "date": "2026-11-02",
+    "venue": "International Journal of Computer Applications Technology and Research",
+    "type": "journal-article",
+    "url": "https://doi.org/10.7753/ijcatr1511.1004",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-04",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.7753%2Fijcatr1511.1004",
+        "checked": "2026-11-04"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225127564",
+        "checked": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "id": "10.66879/jdte.2026.93",
+    "doi": "10.66879/jdte.2026.93",
+    "title": "A Gene Expression Programming Framework for Predicting the Buckling Coefficient of Rotationally-Restrained Mindlin Plates",
+    "authors": [
+      "Naheed Akhtar",
+      "Saddam Hussain Khurram",
+      "Zulfiqar Ali",
+      "Salim Khoso",
+      "Mir Zafarullah",
+      "Muhammad Sabtain"
+    ],
+    "year": 2026,
+    "date": "2026-11-02",
+    "venue": "Journal of Data Technologies and Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.66879/jdte.2026.93",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-04",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.66879%2Fjdte.2026.93",
+        "checked": "2026-11-04"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225084810",
+        "checked": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "id": "10.5194/nhess-26-5441-2026",
+    "doi": "10.5194/nhess-26-5441-2026",
+    "title": "Reducing false alarms in crackmeter-based early warning of small-scale slope deformation via deep learning-driven asynchronous displacement–rainfall data fusion",
+    "authors": [
+      "Shubing Ouyang",
+      "Daichao Li",
+      "Minjiang Liu",
+      "Fengjian Ge",
+      "Xia Zheng",
+      "Yuan Li",
+      "Sheng Wu"
+    ],
+    "year": 2026,
+    "date": "2026-11-02",
+    "venue": "Natural Hazards and Earth System Sciences",
+    "type": "journal-article",
+    "url": "https://doi.org/10.5194/nhess-26-5441-2026",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-04",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.5194%2Fnhess-26-5441-2026",
+        "checked": "2026-11-04"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7160895310",
+        "checked": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11234832/v1",
+    "doi": "10.21203/rs.3.rs-11234832/v1",
+    "title": "Generative Inverse Design of Shell Metamaterials through Continuous-Latent Conditional Flow Matching",
+    "authors": [
+      "Sibo Zhang",
+      "Yunlan Zhang",
+      "Krishna Kumar"
+    ],
+    "year": 2026,
+    "date": "2026-11-02",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11234832/v1",
+    "topics": [
+      "plates",
+      "design",
+      "rom"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-04",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11234832%2Fv1",
+        "checked": "2026-11-04"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225098178",
+        "checked": "2026-11-04"
+      }
+    ]
+  },
+  {
     "id": "10.1108/mlag-02-2026-0003",
     "doi": "10.1108/mlag-02-2026-0003",
     "title": "Application of long short-term memory and convolutional neural networks for real-time bridge pier scour prediction",
@@ -30,6 +213,43 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W4399659777",
         "checked": "2026-11-03"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s10338-026-00862-2",
+    "doi": "10.1007/s10338-026-00862-2",
+    "title": "Quantum Computing for Boundary-Aware Computational Mechanics: A Review and Variational Finite Element Perspective",
+    "authors": [
+      "Dingjie Lu",
+      "Yangfan Li",
+      "Jun Liu",
+      "Zhuangjian Liu",
+      "Wei-Bin Ewe"
+    ],
+    "year": 2026,
+    "date": "2026-11-02",
+    "venue": "Acta Mechanica Solida Sinica",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s10338-026-00862-2",
+    "topics": [
+      "fem"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-04",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs10338-026-00862-2",
+        "checked": "2026-11-04"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225094286",
+        "checked": "2026-11-04"
       }
     ]
   },
