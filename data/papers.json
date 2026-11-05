@@ -1,5 +1,149 @@
 [
   {
+    "id": "10.51878/edutech.v6i4.16409",
+    "doi": "10.51878/edutech.v6i4.16409",
+    "title": "ENGLISH TEACHERS’ PERCEPTIONS OF GENERATIVE AI USE IN TEACHING WRITING",
+    "authors": [
+      "Alvira Putri Sepriani",
+      "Asep Suparman",
+      "Anne Ratna Suminar"
+    ],
+    "year": 2026,
+    "date": "2026-11-03",
+    "venue": "EDUTECH : Jurnal Inovasi Pendidikan Berbantuan Teknologi",
+    "type": "journal-article",
+    "url": "https://doi.org/10.51878/edutech.v6i4.16409",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-05",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.51878%2Fedutech.v6i4.16409",
+        "checked": "2026-11-05"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225113076",
+        "checked": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "10.1137/26m1850230",
+    "doi": "10.1137/26m1850230",
+    "title": "Latent Autoencoder Ensemble Kalman Filter for Nonlinear Data Assimilation",
+    "authors": [
+      "Xin T. Tong",
+      "Yanyan Wang",
+      "Liang Yan"
+    ],
+    "year": 2026,
+    "date": "2026-11-03",
+    "venue": "SIAM Journal on Scientific Computing",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1137/26m1850230",
+    "topics": [
+      "rom"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-05",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1137%2F26m1850230",
+        "checked": "2026-11-05"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7134826867",
+        "checked": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "10.1103/t4wp-kpxs",
+    "doi": "10.1103/t4wp-kpxs",
+    "title": "Compact and stable representation of real-frequency spectral functions for machine learning",
+    "authors": [
+      "Xinyang Dong",
+      "Ido Zemach",
+      "Lei Zhang",
+      "Guy Cohen",
+      "Emanuel Gull"
+    ],
+    "year": 2026,
+    "date": "2026-11-03",
+    "venue": "Physical Review Research",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1103/t4wp-kpxs",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-05",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1103%2Ft4wp-kpxs",
+        "checked": "2026-11-05"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7168247118",
+        "checked": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/1751-8121/aebd27",
+    "doi": "10.1088/1751-8121/aebd27",
+    "title": "Symplectic Neural Networks for learning non-separable Hamiltonians",
+    "authors": [
+      "Harsh Choudhary",
+      "Vyacheslav Kungurtsev",
+      "Chandan Gupta",
+      "Melvin Leok",
+      "Georgios Korpas"
+    ],
+    "year": 2026,
+    "date": "2026-11-03",
+    "venue": "Journal of Physics A: Mathematical and Theoretical",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/1751-8121/aebd27",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-05",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F1751-8121%2Faebd27",
+        "checked": "2026-11-05"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7166109746",
+        "checked": "2026-11-05"
+      }
+    ]
+  },
+  {
     "id": "10.1021/acsomega.6c08678",
     "doi": "10.1021/acsomega.6c08678",
     "title": "Thermodynamically Constrained Deep Learning for Hydrogen\nSorption Prediction: Overcoming Classical Isotherm Generalization\nFailure through Physics-Informed Cross-Lithology Transferability",
@@ -32,6 +176,47 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7147409806",
         "checked": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s10791-026-10801-x",
+    "doi": "10.1007/s10791-026-10801-x",
+    "title": "An intelligent computational modeling framework for robotic kinematics and control using neural networks with genetic optimization and reinforcement learning",
+    "authors": [
+      "Bai Tao",
+      "Mingming Li",
+      "Xueqin Ying",
+      "Ganxi Luo",
+      "Marini Othman",
+      "Runhua Zhang",
+      "Ting Lei",
+      "Dejounte Siakam",
+      "Lianhui Li"
+    ],
+    "year": 2026,
+    "date": "2026-11-03",
+    "venue": "Discover Computing",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s10791-026-10801-x",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-05",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs10791-026-10801-x",
+        "checked": "2026-11-05"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225189000",
+        "checked": "2026-11-05"
       }
     ]
   },
@@ -179,6 +364,45 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7225098178",
         "checked": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "id": "10.1186/s43094-026-01031-5",
+    "doi": "10.1186/s43094-026-01031-5",
+    "title": "Artificial intelligence and machine learning-enabled smart nanodrug delivery systems for tissue regeneration and precision therapeutic release",
+    "authors": [
+      "Md. Azhar",
+      "Rishabha Malviya",
+      "Phool Chandra",
+      "Sathvik Belagodu Sridhar",
+      "Javedh Shareef",
+      "Tarun Wadhwa",
+      "Balamurugan Balusamy"
+    ],
+    "year": 2026,
+    "date": "2026-11-02",
+    "venue": "Future Journal of Pharmaceutical Sciences",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1186/s43094-026-01031-5",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-05",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1186%2Fs43094-026-01031-5",
+        "checked": "2026-11-05"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225103666",
+        "checked": "2026-11-05"
       }
     ]
   },
