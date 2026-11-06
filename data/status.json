@@ -1,15 +1,10 @@
 {
-  "data_updated_at": "2026-11-05T06:50:19.434969+00:00",
-  "last_attempt_at": "2026-11-05T06:50:19.434969+00:00",
-  "message": "Đã bổ sung 6 công bố; đối chiếu 23 DOI. Một số nguồn chưa kiểm tra được; giữ lại dữ liệu hiện có.",
-  "added": 6,
-  "checked": 23,
-  "rejected": 17,
-  "state": "partial",
-  "errors": [
-    "plates: HTTPError",
-    "fem: HTTPError",
-    "design: HTTPError",
-    "Crossref: HTTPError"
-  ]
+  "data_updated_at": "2026-11-06T06:51:21.571193+00:00",
+  "last_attempt_at": "2026-11-06T06:51:21.571193+00:00",
+  "message": "Đã bổ sung 5 công bố; đối chiếu 24 DOI.",
+  "added": 5,
+  "checked": 24,
+  "rejected": 19,
+  "state": "ok",
+  "errors": []
 }

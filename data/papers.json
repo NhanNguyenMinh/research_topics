@@ -1,5 +1,115 @@
 [
   {
+    "id": "10.53941/tgina.2026.100008",
+    "doi": "10.53941/tgina.2026.100008",
+    "title": "A Comprehensive Survey on Graph-Structured Small-Molecule Drug Discovery and Development with Deep Learning",
+    "authors": [
+      "Junwei Hu",
+      "Wei Zhang",
+      "Zhuohao Lin",
+      "Jiajun Yu",
+      "Jiameng Chen",
+      "Jiawei Du",
+      "Wenbin Hu",
+      "Kun Li",
+      "João Gama"
+    ],
+    "year": 2026,
+    "date": "2026-11-04",
+    "venue": "Transactions on Graph Intelligence and Network Applications",
+    "type": "journal-article",
+    "url": "https://doi.org/10.53941/tgina.2026.100008",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-06",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.53941%2Ftgina.2026.100008",
+        "checked": "2026-11-06"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225262470",
+        "checked": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11430624/v1",
+    "doi": "10.21203/rs.3.rs-11430624/v1",
+    "title": "Assisted Turbulence Modeling via Data Assimilation and Machine Learning for Turbomachinery Flows",
+    "authors": [
+      "Tom Moussie",
+      "Pierric Joseph",
+      "Marcello Meldi"
+    ],
+    "year": 2026,
+    "date": "2026-11-04",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11430624/v1",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-06",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11430624%2Fv1",
+        "checked": "2026-11-06"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7223005255",
+        "checked": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "id": "10.1146/annurev-food-020326-031633",
+    "doi": "10.1146/annurev-food-020326-031633",
+    "title": "Artificial Intelligence and the Generative Science of Food Formulation",
+    "authors": [
+      "Vahidullah Tac",
+      "Ellen Kuhl"
+    ],
+    "year": 2026,
+    "date": "2026-11-04",
+    "venue": "Annual Review of Food Science and Technology",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1146/annurev-food-020326-031633",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-06",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1146%2Fannurev-food-020326-031633",
+        "checked": "2026-11-06"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7168176134",
+        "checked": "2026-11-06"
+      }
+    ]
+  },
+  {
     "id": "10.51878/edutech.v6i4.16409",
     "doi": "10.51878/edutech.v6i4.16409",
     "title": "ENGLISH TEACHERS’ PERCEPTIONS OF GENERATIVE AI USE IN TEACHING WRITING",
@@ -140,6 +250,39 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7166109746",
         "checked": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41598-026-56194-1",
+    "doi": "10.1038/s41598-026-56194-1",
+    "title": "Electromagneto-thermoelastic microelongated plate in the context of the dual phase lag model with gravity field",
+    "authors": [
+      "Kawther K. Alarfaj"
+    ],
+    "year": 2026,
+    "date": "2026-11-03",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-56194-1",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-06",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-56194-1",
+        "checked": "2026-11-06"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7152109303",
+        "checked": "2026-11-06"
       }
     ]
   },
@@ -364,6 +507,44 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7225098178",
         "checked": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "id": "10.1371/journal.pone.0361862",
+    "doi": "10.1371/journal.pone.0361862",
+    "title": "Surrogate-assisted multi-objective topology optimization design method for prefabricated large-span Suspen-Dome based on structural-mapping-method and improved-PGSA",
+    "authors": [
+      "Yuchen Dai",
+      "Ailin Zhang",
+      "Liuhaoxiang Wang",
+      "Caisen Wang",
+      "Guanhua Chen",
+      "Yuanyuan Li"
+    ],
+    "year": 2026,
+    "date": "2026-11-02",
+    "venue": "PLOS One",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1371/journal.pone.0361862",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-06",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0361862",
+        "checked": "2026-11-06"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225114382",
+        "checked": "2026-11-06"
       }
     ]
   },
