@@ -1,5 +1,44 @@
 [
   {
+    "id": "10.5194/egusphere-2026-5868",
+    "doi": "10.5194/egusphere-2026-5868",
+    "title": "Review article: using machine learning for snow remote sensing: trends and future directions for global snow measurements",
+    "authors": [
+      "Catherine Marina Breen",
+      "Kehan Yang",
+      "Justin Pflug",
+      "Sujay Kumar",
+      "Nicoleta Cristea",
+      "Ibrahim Alabi",
+      "Carrie Vuyovich"
+    ],
+    "year": 2026,
+    "date": "2026-11-06",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.5194/egusphere-2026-5868",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-08",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.5194%2Fegusphere-2026-5868",
+        "checked": "2026-11-08"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225385152",
+        "checked": "2026-11-08"
+      }
+    ]
+  },
+  {
     "id": "10.3389/fmech.2026.2006613",
     "doi": "10.3389/fmech.2026.2006613",
     "title": "Fatigue life prediction of variable-load industrial robotic arms based on physics-informed graph neural networks",
@@ -29,6 +68,42 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7225347097",
         "checked": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11226309/v1",
+    "doi": "10.21203/rs.3.rs-11226309/v1",
+    "title": "A novel mixed-variable beam element and its application on the free vibration of Timoshenko beam",
+    "authors": [
+      "Lv Ding",
+      "Xue Xia",
+      "Siyuan Bao",
+      "S D Wang"
+    ],
+    "year": 2026,
+    "date": "2026-11-05",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11226309/v1",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-08",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11226309%2Fv1",
+        "checked": "2026-11-08"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225313307",
+        "checked": "2026-11-08"
       }
     ]
   },
@@ -102,6 +177,43 @@
     ]
   },
   {
+    "id": "10.1093/jcde/qwag095",
+    "doi": "10.1093/jcde/qwag095",
+    "title": "Appearance-preserving simplification of non-watertight CAD models using NeuS-guided outer shell extraction",
+    "authors": [
+      "Taejoo Um",
+      "Minjoo Choi",
+      "Soonjo Kwon",
+      "Mingyu Kim",
+      "Sungchan Park"
+    ],
+    "year": 2026,
+    "date": "2026-11-05",
+    "venue": "Journal of Computational Design and Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1093/jcde/qwag095",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-08",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1093%2Fjcde%2Fqwag095",
+        "checked": "2026-11-08"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225323271",
+        "checked": "2026-11-08"
+      }
+    ]
+  },
+  {
     "id": "10.1038/s44455-026-00044-7",
     "doi": "10.1038/s44455-026-00044-7",
     "title": "Language-guided inverse design of multiclass metamaterials using generative artificial intelligence",
@@ -131,6 +243,48 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7225300572",
         "checked": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41598-026-75584-z",
+    "doi": "10.1038/s41598-026-75584-z",
+    "title": "Intelligent manufacturing system and hybrid generative-attention framework for quality prediction of high-performance aluminum alloys",
+    "authors": [
+      "Ruining Xie",
+      "Zhe Gou",
+      "Yanwei Sang",
+      "Jianqiao Liu",
+      "Zehui Li",
+      "Binnan Zhao",
+      "Jianping Tan",
+      "Jie Hou",
+      "Xiaojie Jia",
+      "Xiaoxuan Huang"
+    ],
+    "year": 2026,
+    "date": "2026-11-05",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-75584-z",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-08",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-75584-z",
+        "checked": "2026-11-08"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225310791",
+        "checked": "2026-11-08"
       }
     ]
   },
@@ -239,6 +393,40 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W4400222592",
         "checked": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/nme.70452",
+    "doi": "10.1002/nme.70452",
+    "title": "A Modal‐Based Framework for Topology Optimization of Compliant Mechanisms With Optimal Actuator Sizing",
+    "authors": [
+      "Alexander Nowak",
+      "Alexander Hasse"
+    ],
+    "year": 2026,
+    "date": "2026-11-05",
+    "venue": "International Journal for Numerical Methods in Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/nme.70452",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-08",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fnme.70452",
+        "checked": "2026-11-08"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W4414569595",
+        "checked": "2026-11-08"
       }
     ]
   },
