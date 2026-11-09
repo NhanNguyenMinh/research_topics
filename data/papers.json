@@ -1,5 +1,41 @@
 [
   {
+    "id": "10.58845/jstt.utt.2026.en.6.5.214-233",
+    "doi": "10.58845/jstt.utt.2026.en.6.5.214-233",
+    "title": "Numerical study on the effect of ECC on shear behaviour of steel-reinforced short beams",
+    "authors": [
+      "Cong-Luyen Nguyen",
+      "Ngoc Han Nguyen",
+      "Duc Nhan Hoang",
+      "Quyen Cao Minh"
+    ],
+    "year": 2026,
+    "date": "2026-11-06",
+    "venue": "Journal of Science and Transport Technology",
+    "type": "journal-article",
+    "url": "https://doi.org/10.58845/jstt.utt.2026.en.6.5.214-233",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-09",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.58845%2Fjstt.utt.2026.en.6.5.214-233",
+        "checked": "2026-11-09"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225458872",
+        "checked": "2026-11-09"
+      }
+    ]
+  },
+  {
     "id": "10.5194/egusphere-2026-5868",
     "doi": "10.5194/egusphere-2026-5868",
     "title": "Review article: using machine learning for snow remote sensing: trends and future directions for global snow measurements",
@@ -35,6 +71,46 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7225385152",
         "checked": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "id": "10.3221/10.3221/igf-esis.79.11",
+    "doi": "10.3221/10.3221/igf-esis.79.11",
+    "title": "Machine learning–based wear prediction of carbon fiber–reinforced polypropylene composites using an L25 orthogonal array",
+    "authors": [
+      "Suresha Bheemappa",
+      "Pradeep Kumar V G",
+      "Supreetha Gowda H D",
+      "Tejas M R",
+      "Manjunatha H S",
+      "Vijay Kumar M",
+      "Yashaswini J",
+      "Shobha D"
+    ],
+    "year": 2026,
+    "date": "2026-11-06",
+    "venue": "Fracture and Structural Integrity",
+    "type": "journal-article",
+    "url": "https://doi.org/10.3221/10.3221/igf-esis.79.11",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-09",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.3221%2F10.3221%2Figf-esis.79.11",
+        "checked": "2026-11-09"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225380628",
+        "checked": "2026-11-09"
       }
     ]
   },
@@ -575,6 +651,48 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7225228590",
         "checked": "2026-11-07"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/adfm.79451",
+    "doi": "10.1002/adfm.79451",
+    "title": "Printable Architected Porous Ceramic Metamaterials Enabling Electromagnetic‐Thermal Coupling",
+    "authors": [
+      "Yuyao Sun",
+      "Yekun Liu",
+      "Zhen Yu",
+      "Ruoxi Xiao",
+      "Jiaxin Huang",
+      "Guoxuan Xu",
+      "Zhaofan He",
+      "Ruizhe Xing",
+      "Zhilong Yu",
+      "Jie Kong"
+    ],
+    "year": 2026,
+    "date": "2026-11-04",
+    "venue": "Advanced Functional Materials",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/adfm.79451",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-09",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fadfm.79451",
+        "checked": "2026-11-09"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225246506",
+        "checked": "2026-11-09"
       }
     ]
   },
