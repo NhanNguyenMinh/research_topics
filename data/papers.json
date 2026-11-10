@@ -1,5 +1,76 @@
 [
   {
+    "id": "10.1186/s11671-026-05123-2",
+    "doi": "10.1186/s11671-026-05123-2",
+    "title": "Intelligent computing neural network-driven analysis of maxwell trihybrid nanomaterial with chemical reactor optimization using STG model",
+    "authors": [
+      "Aymen Bourezgui",
+      "Hela Elmannai",
+      "Aydin Secer",
+      "Issoufou Mahamadou"
+    ],
+    "year": 2026,
+    "date": "2026-11-07",
+    "venue": "Discover Nano",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1186/s11671-026-05123-2",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-10",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1186%2Fs11671-026-05123-2",
+        "checked": "2026-11-10"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225464639",
+        "checked": "2026-11-10"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41598-026-79472-4",
+    "doi": "10.1038/s41598-026-79472-4",
+    "title": "Multiscale damage evolution mechanisms and life-cycle performance prediction modeling of asphalt pavement for resilient infrastructure",
+    "authors": [
+      "Da Ju",
+      "Ping He"
+    ],
+    "year": 2026,
+    "date": "2026-11-07",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-79472-4",
+    "topics": [
+      "materials",
+      "inverse"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-10",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-79472-4",
+        "checked": "2026-11-10"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225452487",
+        "checked": "2026-11-10"
+      }
+    ]
+  },
+  {
     "id": "10.58845/jstt.utt.2026.en.6.5.214-233",
     "doi": "10.58845/jstt.utt.2026.en.6.5.214-233",
     "title": "Numerical study on the effect of ECC on shear behaviour of steel-reinforced short beams",
