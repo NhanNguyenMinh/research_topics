@@ -1,5 +1,109 @@
 [
   {
+    "id": "10.3389/fmech.2026.1817499",
+    "doi": "10.3389/fmech.2026.1817499",
+    "title": "Free vibration behavior of bio-inspired helicoidal laminated sandwich skew plates: finite element-assisted higher-order zigzag theory",
+    "authors": [
+      "Ankit Singh",
+      "Aman Garg",
+      "Vaishali Sahu"
+    ],
+    "year": 2026,
+    "date": "2026-11-09",
+    "venue": "Frontiers in Mechanical Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.3389/fmech.2026.1817499",
+    "topics": [
+      "plates",
+      "fem"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-11",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.3389%2Ffmech.2026.1817499",
+        "checked": "2026-11-11"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225616494",
+        "checked": "2026-11-11"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/2632-2153/aebff5",
+    "doi": "10.1088/2632-2153/aebff5",
+    "title": "Mitigating numerical stiffness in least-squares formulations of elliptic PDEs for physics-informed neural networks",
+    "authors": [
+      "Phil-Alexander Hofmann",
+      "Michael Hecht"
+    ],
+    "year": 2026,
+    "date": "2026-11-09",
+    "venue": "Machine Learning: Science and Technology",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/2632-2153/aebff5",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-11",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F2632-2153%2Faebff5",
+        "checked": "2026-11-11"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7167610431",
+        "checked": "2026-11-11"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/2632-2153/aebff4",
+    "doi": "10.1088/2632-2153/aebff4",
+    "title": "An energy-based conservative-dissipative latent neural evolution operator for magnetization dynamics",
+    "authors": [
+      "Sebastian Schaffer",
+      "Lukas Exl"
+    ],
+    "year": 2026,
+    "date": "2026-11-09",
+    "venue": "Machine Learning: Science and Technology",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/2632-2153/aebff4",
+    "topics": [
+      "rom"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-11",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F2632-2153%2Faebff4",
+        "checked": "2026-11-11"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7211906174",
+        "checked": "2026-11-11"
+      }
+    ]
+  },
+  {
     "id": "10.1186/s11671-026-05123-2",
     "doi": "10.1186/s11671-026-05123-2",
     "title": "Intelligent computing neural network-driven analysis of maxwell trihybrid nanomaterial with chemical reactor optimization using STG model",
