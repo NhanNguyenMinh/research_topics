@@ -1,5 +1,146 @@
 [
   {
+    "id": "10.3390/robotics15110236",
+    "doi": "10.3390/robotics15110236",
+    "title": "Physics-Informed Deep Neural Network Surrogate for Simulation-Based Prediction of Hybrid Press System Dynamics",
+    "authors": [
+      "Batyrkhan Omarov",
+      "Moldir Kuatova",
+      "Amandyk Tuleshov",
+      "Marco Ceccarelli",
+      "Aidana Abekova"
+    ],
+    "year": 2026,
+    "date": "2026-11-10",
+    "venue": "Robotics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.3390/robotics15110236",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-12",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.3390%2Frobotics15110236",
+        "checked": "2026-11-12"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225708808",
+        "checked": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11652924/v1",
+    "doi": "10.21203/rs.3.rs-11652924/v1",
+    "title": "Developing a Physics-Informed Neural Network to Estimate the Parameters of a Delay Differential Equation",
+    "authors": [
+      "Amogha S Shastry",
+      "Mayank Goswami"
+    ],
+    "year": 2026,
+    "date": "2026-11-10",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11652924/v1",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-12",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11652924%2Fv1",
+        "checked": "2026-11-12"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225748565",
+        "checked": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11446050/v1",
+    "doi": "10.21203/rs.3.rs-11446050/v1",
+    "title": "Loss–Error Decoupling in Variational Physics-Informed Neural Networks: The Mode-Filtering Effect and Its Quantification",
+    "authors": [
+      "Yanhui Geng"
+    ],
+    "year": 2026,
+    "date": "2026-11-10",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11446050/v1",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-12",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11446050%2Fv1",
+        "checked": "2026-11-12"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225706059",
+        "checked": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s44172-026-00818-x",
+    "doi": "10.1038/s44172-026-00818-x",
+    "title": "AI-guided human-in-the-loop inverse design of high performance engineering structures",
+    "authors": [
+      "Dat Quoc Ha",
+      "Md Ferdous Alam",
+      "Markus J. Buehler",
+      "Faez Ahmed",
+      "Josephine V. Carstensen"
+    ],
+    "year": 2026,
+    "date": "2026-11-10",
+    "venue": "Communications Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s44172-026-00818-x",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-12",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs44172-026-00818-x",
+        "checked": "2026-11-12"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7124748618",
+        "checked": "2026-11-12"
+      }
+    ]
+  },
+  {
     "id": "10.3389/fmech.2026.1817499",
     "doi": "10.3389/fmech.2026.1817499",
     "title": "Free vibration behavior of bio-inspired helicoidal laminated sandwich skew plates: finite element-assisted higher-order zigzag theory",
@@ -32,6 +173,42 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7225616494",
         "checked": "2026-11-11"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11049313/v1",
+    "doi": "10.21203/rs.3.rs-11049313/v1",
+    "title": "Isogeometric thermal postbuckling analysis of geometrically imperfect sandwich plates",
+    "authors": [
+      "Vasudev Sengar",
+      "Gaurav Watts",
+      "Dhruv Deshwal"
+    ],
+    "year": 2026,
+    "date": "2026-11-09",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11049313/v1",
+    "topics": [
+      "plates",
+      "fem"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-12",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11049313%2Fv1",
+        "checked": "2026-11-12"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225642749",
+        "checked": "2026-11-12"
       }
     ]
   },
@@ -100,6 +277,50 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7211906174",
         "checked": "2026-11-11"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s00170-026-19415-5",
+    "doi": "10.1007/s00170-026-19415-5",
+    "title": "Machine-learning-enabled computational–experimental framework for structure–property mapping in TPMS lattice structures",
+    "authors": [
+      "Ali Akber Mollick",
+      "Saqlain Zaman",
+      "Md Shahjahan Mahmud",
+      "Maisha Mesbah",
+      "Tenzin Lhaden",
+      "Sabina Arroyo",
+      "Asif Rahman",
+      "Cesar Moriel",
+      "Christopher Kiekintveld",
+      "Armanj D. Hasanyan",
+      "Tzu-Liang Tseng",
+      "Yirong Lin"
+    ],
+    "year": 2026,
+    "date": "2026-11-09",
+    "venue": "The International Journal of Advanced Manufacturing Technology",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s00170-026-19415-5",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-12",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs00170-026-19415-5",
+        "checked": "2026-11-12"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225634791",
+        "checked": "2026-11-12"
       }
     ]
   },
