@@ -1,5 +1,178 @@
 [
   {
+    "id": "10.1051/m2an/2026092",
+    "doi": "10.1051/m2an/2026092",
+    "title": "Smoothed projections over manifolds in finite element exterior calculus",
+    "authors": [
+      "Martin Werner Licht"
+    ],
+    "year": 2026,
+    "date": "2026-11-12",
+    "venue": "ESAIM: Mathematical Modelling and Numerical Analysis",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1051/m2an/2026092",
+    "topics": [
+      "fem"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-13",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1051%2Fm2an%2F2026092",
+        "checked": "2026-11-13"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W4387929005",
+        "checked": "2026-11-13"
+      }
+    ]
+  },
+  {
+    "id": "10.5194/tc-20-6401-2026",
+    "doi": "10.5194/tc-20-6401-2026",
+    "title": "Observational data and neural network-accelerated modelling provide valuable insights for glacier thickness reconstruction in High Mountain Asia",
+    "authors": [
+      "Gillian M. A. Smith",
+      "Daniel N. Goldberg",
+      "Guillaume Jouvet",
+      "James R. Maddison",
+      "Hamish D. Pritchard"
+    ],
+    "year": 2026,
+    "date": "2026-11-11",
+    "venue": "The Cryosphere",
+    "type": "journal-article",
+    "url": "https://doi.org/10.5194/tc-20-6401-2026",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-13",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.5194%2Ftc-20-6401-2026",
+        "checked": "2026-11-13"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7138286037",
+        "checked": "2026-11-13"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11685613/v1",
+    "doi": "10.21203/rs.3.rs-11685613/v1",
+    "title": "Comparative Study between Numerical Solver, Analytical Perturbation Theory and Physics-Informed Neural Networks in solving a quartic Anharmonic Oscillator",
+    "authors": [
+      "Mayank Goswami",
+      "Harshwardhan Navadkar"
+    ],
+    "year": 2026,
+    "date": "2026-11-11",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11685613/v1",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-13",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11685613%2Fv1",
+        "checked": "2026-11-13"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225721692",
+        "checked": "2026-11-13"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11514570/v1",
+    "doi": "10.21203/rs.3.rs-11514570/v1",
+    "title": "SIMR-NO: A Spectrally-Informed Multi-Resolution Neural Operator for Turbulent Flow Super-Resolution",
+    "authors": [
+      "Muhammad Abid",
+      "Omer San"
+    ],
+    "year": 2026,
+    "date": "2026-11-11",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11514570/v1",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-13",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11514570%2Fv1",
+        "checked": "2026-11-13"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7147246617",
+        "checked": "2026-11-13"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41598-026-75354-x",
+    "doi": "10.1038/s41598-026-75354-x",
+    "title": "UGC driven generative 3D urban screens for urban interfaces",
+    "authors": [
+      "Yiyuan Yuan",
+      "Tianbai Feng",
+      "Zhen Yu"
+    ],
+    "year": 2026,
+    "date": "2026-11-11",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-75354-x",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-13",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-75354-x",
+        "checked": "2026-11-13"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225825841",
+        "checked": "2026-11-13"
+      }
+    ]
+  },
+  {
     "id": "10.3390/robotics15110236",
     "doi": "10.3390/robotics15110236",
     "title": "Physics-Informed Deep Neural Network Surrogate for Simulation-Based Prediction of Hybrid Press System Dynamics",
