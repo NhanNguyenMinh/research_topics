@@ -1,5 +1,48 @@
 [
   {
+    "id": "10.1137/24m1669062",
+    "doi": "10.1137/24m1669062",
+    "title": "Differentiable Programming for Differential Equations: A Review",
+    "authors": [
+      "Facundo Sapienza",
+      "Jordi Bolibar",
+      "Frank Schäfer",
+      "Brian Groenke",
+      "Avik Pal",
+      "Victor Boussange",
+      "Patrick Heimbach",
+      "Giles Hooker",
+      "Fernando Pérez",
+      "Per-Olof Persson",
+      "Christopher Rackauckas"
+    ],
+    "year": 2026,
+    "date": "2026-11-12",
+    "venue": "SIAM Review",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1137/24m1669062",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-14",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1137%2F24m1669062",
+        "checked": "2026-11-14"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W4399758823",
+        "checked": "2026-11-14"
+      }
+    ]
+  },
+  {
     "id": "10.1051/m2an/2026092",
     "doi": "10.1051/m2an/2026092",
     "title": "Smoothed projections over manifolds in finite element exterior calculus",
@@ -29,6 +72,46 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W4387929005",
         "checked": "2026-11-13"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41529-026-00906-5",
+    "doi": "10.1038/s41529-026-00906-5",
+    "title": "Towards spatio-temporal extrapolation of phase-field simulations with convolution-only neural networks",
+    "authors": [
+      "Christophe Bonneville",
+      "Nathan Bieberdorf",
+      "Pieterjan Robbe",
+      "Mark Asta",
+      "Habib N. Najm",
+      "Laurent Capolungo",
+      "Cosmin Safta"
+    ],
+    "year": 2026,
+    "date": "2026-11-12",
+    "venue": "npj Materials Degradation",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41529-026-00906-5",
+    "topics": [
+      "sciml",
+      "fracture"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-14",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41529-026-00906-5",
+        "checked": "2026-11-14"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7119686959",
+        "checked": "2026-11-14"
       }
     ]
   },
@@ -138,6 +221,44 @@
     ]
   },
   {
+    "id": "10.21203/rs.3.rs-11419124/v1",
+    "doi": "10.21203/rs.3.rs-11419124/v1",
+    "title": "Topology Optimization for Complex 3D Structures and Loading Conditions",
+    "authors": [
+      "Jingchen Ye",
+      "Qi Liu",
+      "Yu Feng",
+      "Yanding Guo",
+      "Tieqiang Gang",
+      "Lijie Chen"
+    ],
+    "year": 2026,
+    "date": "2026-11-11",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11419124/v1",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-14",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11419124%2Fv1",
+        "checked": "2026-11-14"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225811116",
+        "checked": "2026-11-14"
+      }
+    ]
+  },
+  {
     "id": "10.1038/s41598-026-75354-x",
     "doi": "10.1038/s41598-026-75354-x",
     "title": "UGC driven generative 3D urban screens for urban interfaces",
@@ -169,6 +290,43 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7225825841",
         "checked": "2026-11-13"
+      }
+    ]
+  },
+  {
+    "id": "10.1021/acsaenm.6c01418",
+    "doi": "10.1021/acsaenm.6c01418",
+    "title": "Data-Driven Design and Optimization of TPMS Structures: A Critical Review of Deep Learning, Inverse Design, and Multiscale Engineering Applications",
+    "authors": [
+      "Suriya Babu",
+      "Gopalakrishnan Thangavel",
+      "Abhishek Agarwal"
+    ],
+    "year": 2026,
+    "date": "2026-11-11",
+    "venue": "ACS Applied Engineering Materials",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1021/acsaenm.6c01418",
+    "topics": [
+      "sciml",
+      "materials",
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-14",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1021%2Facsaenm.6c01418",
+        "checked": "2026-11-14"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225809447",
+        "checked": "2026-11-14"
       }
     ]
   },

@@ -1,12 +1,14 @@
 {
-  "data_updated_at": "2026-11-13T06:49:09.055933+00:00",
-  "last_attempt_at": "2026-11-13T06:49:09.055933+00:00",
-  "message": "Đã bổ sung 5 công bố; đối chiếu 21 DOI. Một số nguồn chưa kiểm tra được; giữ lại dữ liệu hiện có.",
-  "added": 5,
-  "checked": 21,
-  "rejected": 16,
+  "data_updated_at": "2026-11-14T06:27:38.924782+00:00",
+  "last_attempt_at": "2026-11-14T06:27:38.924782+00:00",
+  "message": "Đã bổ sung 4 công bố; đối chiếu 19 DOI. Một số nguồn chưa kiểm tra được; giữ lại dữ liệu hiện có.",
+  "added": 4,
+  "checked": 19,
+  "rejected": 15,
   "state": "partial",
   "errors": [
+    "Crossref: HTTPError",
+    "Crossref: HTTPError",
     "Crossref: HTTPError",
     "Crossref: HTTPError",
     "Crossref: HTTPError"
