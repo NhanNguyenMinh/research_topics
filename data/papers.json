@@ -1,5 +1,186 @@
 [
   {
+    "id": "10.66977/xsci.2611.001y",
+    "doi": "10.66977/xsci.2611.001y",
+    "title": "JAX-WAVE: A Differentiable Physics-Supervised Framework for Inverse Wave Design in Heterogeneous Media",
+    "authors": [
+      "Honghui Du",
+      "Binyao Guo",
+      "Yushu Pan"
+    ],
+    "year": 2026,
+    "date": "2026-11-13",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.66977/xsci.2611.001y",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-15",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.66977%2Fxsci.2611.001y",
+        "checked": "2026-11-15"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225809398",
+        "checked": "2026-11-15"
+      }
+    ]
+  },
+  {
+    "id": "10.1137/25m1817601",
+    "doi": "10.1137/25m1817601",
+    "title": "A Decomposition-Based Robust Training of Physics-Informed Neural Networks for Nearly Incompressible Linear Elasticity",
+    "authors": [
+      "Josef Dick",
+      "Seungchan Ko",
+      "Quoc Thong Le Gia",
+      "Kassem Mustapha",
+      "Sang Hyeon Park"
+    ],
+    "year": 2026,
+    "date": "2026-11-13",
+    "venue": "SIAM Journal on Scientific Computing",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1137/25m1817601",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-15",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1137%2F25m1817601",
+        "checked": "2026-11-15"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W4416615360",
+        "checked": "2026-11-15"
+      }
+    ]
+  },
+  {
+    "id": "10.1021/jacs.6c18007",
+    "doi": "10.1021/jacs.6c18007",
+    "title": "Inverse Design of Inorganic\nCompounds with Generative\nAI",
+    "authors": [
+      "Hannes Kneiding",
+      "Lucía Morán-González",
+      "Nishamol Kuriakose",
+      "Ainara Nova",
+      "David Balcells"
+    ],
+    "year": 2026,
+    "date": "2026-11-13",
+    "venue": "Journal of the American\nChemical Society",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1021/jacs.6c18007",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-15",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1021%2Fjacs.6c18007",
+        "checked": "2026-11-15"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7154469060",
+        "checked": "2026-11-15"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s44379-026-00102-x",
+    "doi": "10.1007/s44379-026-00102-x",
+    "title": "An overview of machine learning-enhanced iterative methods for systems of linear and nonlinear equations",
+    "authors": [
+      "Yuhuang Meng",
+      "Jing Zhao",
+      "Alexander Heinlein"
+    ],
+    "year": 2026,
+    "date": "2026-11-13",
+    "venue": "Machine Learning for Computational Science and Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s44379-026-00102-x",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-15",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs44379-026-00102-x",
+        "checked": "2026-11-15"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7220976659",
+        "checked": "2026-11-15"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/nme.70465",
+    "doi": "10.1002/nme.70465",
+    "title": "Variational Graph Neural Networks for Uncertainty Quantification in Inverse Problems",
+    "authors": [
+      "David González",
+      "Alba Muixí",
+      "Beatriz Moya",
+      "Elías Cueto"
+    ],
+    "year": 2026,
+    "date": "2026-11-13",
+    "venue": "International Journal for Numerical Methods in Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/nme.70465",
+    "topics": [
+      "sciml",
+      "inverse"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-15",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fnme.70465",
+        "checked": "2026-11-15"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7147329577",
+        "checked": "2026-11-15"
+      }
+    ]
+  },
+  {
     "id": "10.1137/24m1669062",
     "doi": "10.1137/24m1669062",
     "title": "Differentiable Programming for Differential Equations: A Review",
