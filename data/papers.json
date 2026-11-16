@@ -72,6 +72,116 @@
     ]
   },
   {
+    "id": "10.1088/1361-665x/aec1c9",
+    "doi": "10.1088/1361-665x/aec1c9",
+    "title": "Topological Optimization and Robust Active Disturbance Rejection Control of an ACLD Cylindrical Shell with Breathing Cracks Under Multi-Field Coupling Degradation",
+    "authors": [
+      "Zhicheng Huang",
+      "Quanchang Feng",
+      "Xingguo Wang",
+      "Fulei Chu"
+    ],
+    "year": 2026,
+    "date": "2026-11-13",
+    "venue": "Smart Materials and Structures",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/1361-665x/aec1c9",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-16",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F1361-665x%2Faec1c9",
+        "checked": "2026-11-16"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225987371",
+        "checked": "2026-11-16"
+      }
+    ]
+  },
+  {
+    "id": "10.1080/17452759.2026.2758978",
+    "doi": "10.1080/17452759.2026.2758978",
+    "title": "Fatigue-Resistant design of additively manufactured lattice structures in the era of data-driven engineering",
+    "authors": [
+      "Kai Kang",
+      "Yan Chen",
+      "Zhijia Zhang",
+      "Penghua Ying",
+      "Yilun Liu"
+    ],
+    "year": 2026,
+    "date": "2026-11-13",
+    "venue": "Virtual and Physical Prototyping",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1080/17452759.2026.2758978",
+    "topics": [
+      "sciml",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-16",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1080%2F17452759.2026.2758978",
+        "checked": "2026-11-16"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7226039161",
+        "checked": "2026-11-16"
+      }
+    ]
+  },
+  {
+    "id": "10.1063/5.0356308",
+    "doi": "10.1063/5.0356308",
+    "title": "Finite element discretization in electronic structure calculations: Progress and perspective",
+    "authors": [
+      "Sambit Das",
+      "Bikash Kanungo",
+      "Phani Motamarri",
+      "Vikram Gavini"
+    ],
+    "year": 2026,
+    "date": "2026-11-13",
+    "venue": "APL Computational Physics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1063/5.0356308",
+    "topics": [
+      "fem"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-16",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1063%2F5.0356308",
+        "checked": "2026-11-16"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225983685",
+        "checked": "2026-11-16"
+      }
+    ]
+  },
+  {
     "id": "10.1021/jacs.6c18007",
     "doi": "10.1021/jacs.6c18007",
     "title": "Inverse Design of Inorganic\nCompounds with Generative\nAI",
@@ -144,6 +254,41 @@
     ]
   },
   {
+    "id": "10.1007/s11665-026-15498-z",
+    "doi": "10.1007/s11665-026-15498-z",
+    "title": "Microstructure and Corrosion Behavior of Laser-Remelted Ti-35Nb(-Sn) Alloys",
+    "authors": [
+      "Juliane Ribeiro da Cruz",
+      "Milton Sérgio Fernandes de Lima",
+      "Rodnei Bertazzoli"
+    ],
+    "year": 2026,
+    "date": "2026-11-13",
+    "venue": "Journal of Materials Engineering and Performance",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s11665-026-15498-z",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-16",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs11665-026-15498-z",
+        "checked": "2026-11-16"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225996210",
+        "checked": "2026-11-16"
+      }
+    ]
+  },
+  {
     "id": "10.1002/nme.70465",
     "doi": "10.1002/nme.70465",
     "title": "Variational Graph Neural Networks for Uncertainty Quantification in Inverse Problems",
@@ -177,6 +322,42 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7147329577",
         "checked": "2026-11-15"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/nme.70457",
+    "doi": "10.1002/nme.70457",
+    "title": "Arc‐Center Arc‐Length Method for Non‐Linear Static Analysis of Curvilinear‐Fiber Laminated Plates",
+    "authors": [
+      "Siqi Wang",
+      "Dayou Ma",
+      "Lei Duan",
+      "Zhao Jing"
+    ],
+    "year": 2026,
+    "date": "2026-11-13",
+    "venue": "International Journal for Numerical Methods in Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/nme.70457",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-16",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fnme.70457",
+        "checked": "2026-11-16"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7226007143",
+        "checked": "2026-11-16"
       }
     ]
   },
