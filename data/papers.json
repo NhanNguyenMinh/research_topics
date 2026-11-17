@@ -1,5 +1,152 @@
 [
   {
+    "id": "10.1038/s41598-026-80760-2",
+    "doi": "10.1038/s41598-026-80760-2",
+    "title": "Source informed dual expert machine learning combining Gaussian and Boltzmann representations for sequential twin tunnel settlement prediction",
+    "authors": [
+      "Amirhossein Rostami",
+      "Satar Mahdevari",
+      "Kurosh Shahriar",
+      "Jamal Rostami"
+    ],
+    "year": 2026,
+    "date": "2026-11-15",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-80760-2",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-17",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-80760-2",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7233596177",
+        "checked": "2026-11-17"
+      }
+    ]
+  },
+  {
+    "id": "10.1145/3860999",
+    "doi": "10.1145/3860999",
+    "title": "End-to-End Differentiable Smoothed Particle Hydrodynamics for Fluid--Rigid Optimization with Gradient Stabilization",
+    "authors": [
+      "Geng-Chen Cao",
+      "Bo Ren",
+      "Yanrui Xu",
+      "Zhe-Han Mo",
+      "Shi-min Hu"
+    ],
+    "year": 2026,
+    "date": "2026-11-14",
+    "venue": "ACM Transactions on Graphics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1145/3860999",
+    "topics": [
+      "fem",
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-17",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1145%2F3860999",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7227613682",
+        "checked": "2026-11-17"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s44268-026-00104-x",
+    "doi": "10.1007/s44268-026-00104-x",
+    "title": "A physics-informed multi-agent framework for real-time seismic health monitoring and structural safety management",
+    "authors": [
+      "Artem Zaitsev"
+    ],
+    "year": 2026,
+    "date": "2026-11-14",
+    "venue": "Smart Construction and Sustainable Cities",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s44268-026-00104-x",
+    "topics": [
+      "sciml",
+      "inverse"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-17",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs44268-026-00104-x",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7232156330",
+        "checked": "2026-11-17"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/jomd.70006",
+    "doi": "10.1002/jomd.70006",
+    "title": "A Systematic Review on Generative Design for Manufacturability",
+    "authors": [
+      "W. A. Lakpriya M. Weragoda",
+      "Katja Hölttä‐Otto",
+      "Kevin Otto",
+      "Jiahang Li",
+      "Christoph Wittig Adão",
+      "Sven Matthiesen",
+      "Xingang Li"
+    ],
+    "year": 2026,
+    "date": "2026-11-14",
+    "venue": "Journal of Mechanical Design",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/jomd.70006",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-17",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fjomd.70006",
+        "checked": "2026-11-17"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7230234435",
+        "checked": "2026-11-17"
+      }
+    ]
+  },
+  {
     "id": "10.66977/xsci.2611.001y",
     "doi": "10.66977/xsci.2611.001y",
     "title": "JAX-WAVE: A Differentiable Physics-Supervised Framework for Inverse Wave Design in Heterogeneous Media",
