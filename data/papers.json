@@ -1,5 +1,113 @@
 [
   {
+    "id": "10.3389/fbuil.2026.2010929",
+    "doi": "10.3389/fbuil.2026.2010929",
+    "title": "Structural performance and flexural behaviour of graphene oxide-modified recycled aggregate concrete beams",
+    "authors": [
+      "S. Rathnaswamy",
+      "P. Jagadeesh"
+    ],
+    "year": 2026,
+    "date": "2026-11-16",
+    "venue": "Frontiers in Built Environment",
+    "type": "journal-article",
+    "url": "https://doi.org/10.3389/fbuil.2026.2010929",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-18",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.3389%2Ffbuil.2026.2010929",
+        "checked": "2026-11-18"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7233541987",
+        "checked": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "id": "10.2514/1.j067251",
+    "doi": "10.2514/1.j067251",
+    "title": "Component-Based Reduced-Order Modeling Framework for Rocket Combustion Dynamics in Multi-Injector Configurations",
+    "authors": [
+      "Brody Gatza",
+      "Cheng Huang"
+    ],
+    "year": 2026,
+    "date": "2026-11-16",
+    "venue": "AIAA Journal",
+    "type": "journal-article",
+    "url": "https://doi.org/10.2514/1.j067251",
+    "topics": [
+      "rom"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-18",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.2514%2F1.j067251",
+        "checked": "2026-11-18"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7154989768",
+        "checked": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/2632-2153/aec2a2",
+    "doi": "10.1088/2632-2153/aec2a2",
+    "title": "Generative pseudo-force fields for molecular generation",
+    "authors": [
+      "Stefaan Simon Pierre Hessmann",
+      "Khaled Kahouli",
+      "Stefan Gugler",
+      "Michael Plainer",
+      "Frank Noé",
+      "Klaus-Robert Mueller",
+      "Niklas Wolf Andreas Gebauer"
+    ],
+    "year": 2026,
+    "date": "2026-11-16",
+    "venue": "Machine Learning: Science and Technology",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/2632-2153/aec2a2",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-18",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F2632-2153%2Faec2a2",
+        "checked": "2026-11-18"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7161827821",
+        "checked": "2026-11-18"
+      }
+    ]
+  },
+  {
     "id": "10.1038/s41598-026-80760-2",
     "doi": "10.1038/s41598-026-80760-2",
     "title": "Source informed dual expert machine learning combining Gaussian and Boltzmann representations for sequential twin tunnel settlement prediction",
@@ -32,6 +140,48 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7233596177",
         "checked": "2026-11-17"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/advs.78757",
+    "doi": "10.1002/advs.78757",
+    "title": "Breaking the Strength‐Deformability Tradeoff in Lattice Metamaterials by Mantis Shrimp Saddle‐Inspired Topological Design",
+    "authors": [
+      "Helong Wu",
+      "Yuhui Jiang",
+      "Weilang Hu",
+      "Song Yang",
+      "Junhan Ye",
+      "Tinghang Ruan",
+      "Jia Zheng",
+      "Shaowen Zhu",
+      "Jun Zhu",
+      "Huaping Wu"
+    ],
+    "year": 2026,
+    "date": "2026-11-15",
+    "venue": "Advanced Science",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/advs.78757",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-18",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fadvs.78757",
+        "checked": "2026-11-18"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7233999771",
+        "checked": "2026-11-18"
       }
     ]
   },
