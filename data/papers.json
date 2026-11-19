@@ -35,6 +35,44 @@
     ]
   },
   {
+    "id": "10.3221/igf-esis.79.14",
+    "doi": "10.3221/igf-esis.79.14",
+    "title": "Effect of core architecture on flexural strength and failure behavior of additively manufactured composite sandwich panels",
+    "authors": [
+      "Yulia Pirogova",
+      "Mikhail Tashkinov",
+      "Ilia Vindokurov",
+      "Anastasia Tarasova",
+      "Aleksei Kondrashov",
+      "Nataliya Elenskaya"
+    ],
+    "year": 2026,
+    "date": "2026-11-16",
+    "venue": "Fracture and Structural Integrity",
+    "type": "journal-article",
+    "url": "https://doi.org/10.3221/igf-esis.79.14",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-19",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.3221%2Figf-esis.79.14",
+        "checked": "2026-11-19"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7234368815",
+        "checked": "2026-11-19"
+      }
+    ]
+  },
+  {
     "id": "10.2514/1.j067251",
     "doi": "10.2514/1.j067251",
     "title": "Component-Based Reduced-Order Modeling Framework for Rocket Combustion Dynamics in Multi-Injector Configurations",
@@ -104,6 +142,45 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7161827821",
         "checked": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s40194-026-02704-8",
+    "doi": "10.1007/s40194-026-02704-8",
+    "title": "Microstructure and mechanical performance of functionally graded low-alloy steel structures produced by tandem wire-arc directed energy deposition",
+    "authors": [
+      "T. Reindl",
+      "C. Hagner",
+      "S. Rotzsche",
+      "R. Paiotti",
+      "J. Vincic",
+      "N. Hempel",
+      "P. Mayr"
+    ],
+    "year": 2026,
+    "date": "2026-11-16",
+    "venue": "Welding in the World",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s40194-026-02704-8",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-19",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs40194-026-02704-8",
+        "checked": "2026-11-19"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7233839780",
+        "checked": "2026-11-19"
       }
     ]
   },
