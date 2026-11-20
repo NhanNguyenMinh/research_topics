@@ -1,5 +1,148 @@
 [
   {
+    "id": "10.65206/pajes.2027258",
+    "doi": "10.65206/pajes.2027258",
+    "title": "Mode-shape analysis of laminated functionally graded carbon nanotube-reinforced rectangular plates",
+    "authors": [
+      "Ali Doğan"
+    ],
+    "year": 2026,
+    "date": "2026-11-18",
+    "venue": "Pamukkale Üniversitesi Mühendislik Bilimleri Dergisi",
+    "type": "journal-article",
+    "url": "https://doi.org/10.65206/pajes.2027258",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-20",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.65206%2Fpajes.2027258",
+        "checked": "2026-11-20"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7236093401",
+        "checked": "2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "10.1098/rspa.2026.0542",
+    "doi": "10.1098/rspa.2026.0542",
+    "title": "Multi-scale modelling of composite materials: a hybrid approach integrating asymptotic homogenization and physics-informed neural networks",
+    "authors": [
+      "Carlos Quesada-González",
+      "Oscar L. Cruz-González",
+      "Reinaldo Rodríguez-Ramos",
+      "Boris Mederos",
+      "Yoanh Espinosa-Almeyda",
+      "Jose Merodio"
+    ],
+    "year": 2026,
+    "date": "2026-11-18",
+    "venue": "Proceedings of the Royal Society A Mathematical Physical and Engineering Science",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1098/rspa.2026.0542",
+    "topics": [
+      "sciml",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-20",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1098%2Frspa.2026.0542",
+        "checked": "2026-11-20"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7235599354",
+        "checked": "2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41598-026-79923-y",
+    "doi": "10.1038/s41598-026-79923-y",
+    "title": "Physics-informed offline reinforcement learning reduces worst-case fuel risk in maritime routing",
+    "authors": [
+      "Aniruddha Bora",
+      "Julie Chalfant",
+      "Chryssostomos Chryssostomidis"
+    ],
+    "year": 2026,
+    "date": "2026-11-18",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-79923-y",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-20",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-79923-y",
+        "checked": "2026-11-20"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7138957057",
+        "checked": "2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41598-026-78576-1",
+    "doi": "10.1038/s41598-026-78576-1",
+    "title": "Full-range flexural modelling of hybrid-reinforced steel fibre recycled aggregate concrete beams",
+    "authors": [
+      "Ke Shi",
+      "Binbin Bai",
+      "Jie Meng"
+    ],
+    "year": 2026,
+    "date": "2026-11-18",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-78576-1",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-20",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-78576-1",
+        "checked": "2026-11-20"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7235604448",
+        "checked": "2026-11-20"
+      }
+    ]
+  },
+  {
     "id": "10.3389/fbuil.2026.2010929",
     "doi": "10.3389/fbuil.2026.2010929",
     "title": "Structural performance and flexural behaviour of graphene oxide-modified recycled aggregate concrete beams",

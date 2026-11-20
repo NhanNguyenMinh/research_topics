@@ -1,14 +1,10 @@
 {
-  "data_updated_at": "2026-11-19T07:29:11.206038+00:00",
-  "last_attempt_at": "2026-11-19T07:29:11.206038+00:00",
-  "message": "Đã bổ sung 2 công bố; đối chiếu 24 DOI. Một số nguồn chưa kiểm tra được; giữ lại dữ liệu hiện có.",
-  "added": 2,
+  "data_updated_at": "2026-11-20T07:20:00.375073+00:00",
+  "last_attempt_at": "2026-11-20T07:20:00.375073+00:00",
+  "message": "Đã bổ sung 4 công bố; đối chiếu 24 DOI.",
+  "added": 4,
   "checked": 24,
-  "rejected": 22,
-  "state": "partial",
-  "errors": [
-    "sciml: HTTPError",
-    "inverse: HTTPError",
-    "rom: HTTPError"
-  ]
+  "rejected": 20,
+  "state": "ok",
+  "errors": []
 }
