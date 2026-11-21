@@ -1,5 +1,223 @@
 [
   {
+    "id": "10.4208/cicp.oa-2026-0037",
+    "doi": "10.4208/cicp.oa-2026-0037",
+    "title": "Physics-Informed Neural Networks for Biot's Model via Fixed-Stress Splitting and Energy Natural Gradient Descent",
+    "authors": [
+      "Kexin Sun",
+      "Qiang Liu",
+      "Minfu Feng",
+      "Mingchao Cai"
+    ],
+    "year": 2026,
+    "date": "2026-11-19",
+    "venue": "Communications in Computational Physics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.4208/cicp.oa-2026-0037",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-21",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.4208%2Fcicp.oa-2026-0037",
+        "checked": "2026-11-21"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7204601139",
+        "checked": "2026-11-21"
+      }
+    ]
+  },
+  {
+    "id": "10.3389/fmats.2026.1925816",
+    "doi": "10.3389/fmats.2026.1925816",
+    "title": "An analytical approach to the nonlinear dynamic response of blast-loaded composite plates",
+    "authors": [
+      "Fan Yang",
+      "Jinhui Jiang",
+      "Long Long"
+    ],
+    "year": 2026,
+    "date": "2026-11-19",
+    "venue": "Frontiers in Materials",
+    "type": "journal-article",
+    "url": "https://doi.org/10.3389/fmats.2026.1925816",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-21",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.3389%2Ffmats.2026.1925816",
+        "checked": "2026-11-21"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7236775926",
+        "checked": "2026-11-21"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11767243/v1",
+    "doi": "10.21203/rs.3.rs-11767243/v1",
+    "title": "Microscopic stress concentration of salt crystallization damage on the surface of cement-based materials: Simulation characterization and machine learning analysis",
+    "authors": [
+      "Xuefeng Liu",
+      "Ze Zhang",
+      "Jinbo Yang",
+      "Siqi Li",
+      "Zhenhua Huang",
+      "Jinpeng Zhang"
+    ],
+    "year": 2026,
+    "date": "2026-11-19",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11767243/v1",
+    "topics": [
+      "sciml",
+      "inverse"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-21",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11767243%2Fv1",
+        "checked": "2026-11-21"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7236615650",
+        "checked": "2026-11-21"
+      }
+    ]
+  },
+  {
+    "id": "10.1177/02783649261503499",
+    "doi": "10.1177/02783649261503499",
+    "title": "DEFT: Differentiable branched discrete elastic rods for modeling furcated DLOs in real-time",
+    "authors": [
+      "Yizhou Chen",
+      "Felicia Sang",
+      "Shicheng Peng",
+      "Xiaoyue Wu",
+      "Yeheng Zong",
+      "Yuzhen Chen",
+      "Anran Li",
+      "Bohao Zhang",
+      "Ramanarayan Vasudevan"
+    ],
+    "year": 2026,
+    "date": "2026-11-19",
+    "venue": "The International Journal of Robotics Research",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1177/02783649261503499",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-21",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1177%2F02783649261503499",
+        "checked": "2026-11-21"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W4416042268",
+        "checked": "2026-11-21"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/1402-4896/aebfd6",
+    "doi": "10.1088/1402-4896/aebfd6",
+    "title": "Nonlinear dynamic analysis of flexoelectric microplates based on consistent couple stress theory under an external magnetic field",
+    "authors": [
+      "Masoud Ajri",
+      "Arsalan Pourmojib"
+    ],
+    "year": 2026,
+    "date": "2026-11-19",
+    "venue": "Physica Scripta",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/1402-4896/aebfd6",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-21",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F1402-4896%2Faebfd6",
+        "checked": "2026-11-21"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225652439",
+        "checked": "2026-11-21"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s11227-026-08964-x",
+    "doi": "10.1007/s11227-026-08964-x",
+    "title": "Spectral bias mitigation in physics-informed neural surrogates for nonlinear structural dynamics: Fourier feature encoding versus Kolmogorov–Arnold representations",
+    "authors": [
+      "Salih Berkan Aydemir"
+    ],
+    "year": 2026,
+    "date": "2026-11-19",
+    "venue": "The Journal of Supercomputing",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s11227-026-08964-x",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-21",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs11227-026-08964-x",
+        "checked": "2026-11-21"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7168380216",
+        "checked": "2026-11-21"
+      }
+    ]
+  },
+  {
     "id": "10.65206/pajes.2027258",
     "doi": "10.65206/pajes.2027258",
     "title": "Mode-shape analysis of laminated functionally graded carbon nanotube-reinforced rectangular plates",
