@@ -1,5 +1,193 @@
 [
   {
+    "id": "10.4208/cicp.oa-2026-0074",
+    "doi": "10.4208/cicp.oa-2026-0074",
+    "title": "Generating Samples of Stationary Distributions of Weakly Interacting Diffusion Models without Finite Particle Truncation: A Weak Generative Approach",
+    "authors": [
+      "Zhiqiang Cai",
+      "Chengyu Liu",
+      "Xiang Zhou"
+    ],
+    "year": 2026,
+    "date": "2026-11-20",
+    "venue": "Communications in Computational Physics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.4208/cicp.oa-2026-0074",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-22",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.4208%2Fcicp.oa-2026-0074",
+        "checked": "2026-11-22"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W4415090034",
+        "checked": "2026-11-22"
+      }
+    ]
+  },
+  {
+    "id": "10.26599/jac.2026.9221385",
+    "doi": "10.26599/jac.2026.9221385",
+    "title": "Machine learning empowered compositional design of multiple rare-earth principal component disilicates",
+    "authors": [
+      "Yixiu Luo",
+      "Xinyu Gao",
+      "Ziyu Wang",
+      "Cui Zhou",
+      "Jiemin Wang",
+      "Tiefeng Du",
+      "Luchao Sun",
+      "Jingyang Wang",
+      "Ying Xiong"
+    ],
+    "year": 2026,
+    "date": "2026-11-20",
+    "venue": "Journal of Advanced Ceramics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.26599/jac.2026.9221385",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-22",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.26599%2Fjac.2026.9221385",
+        "checked": "2026-11-22"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7214525368",
+        "checked": "2026-11-22"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11584818/v1",
+    "doi": "10.21203/rs.3.rs-11584818/v1",
+    "title": "Plasticity-based topology optimization using weak-form lower-bound yield design and displacement finite elements",
+    "authors": [
+      "Canh V. Le",
+      "Dong Qian",
+      "Hung Nguyen-Xuan"
+    ],
+    "year": 2026,
+    "date": "2026-11-20",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11584818/v1",
+    "topics": [
+      "fem",
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-22",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11584818%2Fv1",
+        "checked": "2026-11-22"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7236634580",
+        "checked": "2026-11-22"
+      }
+    ]
+  },
+  {
+    "id": "10.1038/s41746-026-03383-x",
+    "doi": "10.1038/s41746-026-03383-x",
+    "title": "Shape-informed cardiac mechanics surrogates in data-scarce regimes via geometric encoding and generative augmentation",
+    "authors": [
+      "Davide Carrara",
+      "Marc Hirschvogel",
+      "Francesca Bonizzoni",
+      "Stefano Pagani",
+      "Simone Pezzuto",
+      "Francesco Regazzoni"
+    ],
+    "year": 2026,
+    "date": "2026-11-20",
+    "venue": "npj Digital Medicine",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41746-026-03383-x",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-22",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41746-026-03383-x",
+        "checked": "2026-11-22"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7131417604",
+        "checked": "2026-11-22"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s00170-026-19571-8",
+    "doi": "10.1007/s00170-026-19571-8",
+    "title": "A parameterized data-driven neural network with physics-based regularization for thermal field prediction in metal additive manufacturing",
+    "authors": [
+      "Aishwarya Manjunath",
+      "Hang Tran",
+      "Selvamurugan Palaniappan",
+      "Shashank Sharma",
+      "Song Fu",
+      "Narendra B. Dahotre"
+    ],
+    "year": 2026,
+    "date": "2026-11-20",
+    "venue": "The International Journal of Advanced Manufacturing Technology",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s00170-026-19571-8",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-22",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs00170-026-19571-8",
+        "checked": "2026-11-22"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7170333081",
+        "checked": "2026-11-22"
+      }
+    ]
+  },
+  {
     "id": "10.4208/cicp.oa-2026-0037",
     "doi": "10.4208/cicp.oa-2026-0037",
     "title": "Physics-Informed Neural Networks for Biot's Model via Fixed-Stress Splitting and Energy Natural Gradient Descent",
@@ -67,6 +255,39 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7236775926",
         "checked": "2026-11-21"
+      }
+    ]
+  },
+  {
+    "id": "10.24425/ame.2026.12678",
+    "doi": "10.24425/ame.2026.12678",
+    "title": "Verifying finite-element buckling of columns and plates: an educational study with mode transitions",
+    "authors": [
+      "Mohamed Latrache"
+    ],
+    "year": 2026,
+    "date": "2026-11-19",
+    "venue": "Archive of Mechanical Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.24425/ame.2026.12678",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-22",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.24425%2Fame.2026.12678",
+        "checked": "2026-11-22"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7236609529",
+        "checked": "2026-11-22"
       }
     ]
   },
@@ -357,6 +578,41 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7235604448",
         "checked": "2026-11-20"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/advs.78851",
+    "doi": "10.1002/advs.78851",
+    "title": "Microstructural Orientation Enables Mass‐Efficient Structural Batteries",
+    "authors": [
+      "Richa Chaudhary",
+      "Varun Chaudhary",
+      "Leif E. Asp"
+    ],
+    "year": 2026,
+    "date": "2026-11-18",
+    "venue": "Advanced Science",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/advs.78851",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-22",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fadvs.78851",
+        "checked": "2026-11-22"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7236708701",
+        "checked": "2026-11-22"
       }
     ]
   },
