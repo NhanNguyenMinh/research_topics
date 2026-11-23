@@ -1,5 +1,74 @@
 [
   {
+    "id": "10.1038/s41598-026-79182-x",
+    "doi": "10.1038/s41598-026-79182-x",
+    "title": "Physics-informed neural surrogate learning predicts cervical cancer progression with mechanistic interpretability",
+    "authors": [
+      "Padmasri Sridharan",
+      "Mini Ghosh"
+    ],
+    "year": 2026,
+    "date": "2026-11-21",
+    "venue": "Scientific Reports",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1038/s41598-026-79182-x",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-23",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1038%2Fs41598-026-79182-x",
+        "checked": "2026-11-23"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7237051161",
+        "checked": "2026-11-23"
+      }
+    ]
+  },
+  {
+    "id": "10.1021/acsomega.6c07068",
+    "doi": "10.1021/acsomega.6c07068",
+    "title": "Trust in Machine Learning-Aided Docking: A Systematic\nReview of Good Practices for Chemically Reliable Predictions",
+    "authors": [
+      "Camila Fonseca Amorim da Silva",
+      "Thales Kronenberger",
+      "Kathia Maria Honorio"
+    ],
+    "year": 2026,
+    "date": "2026-11-21",
+    "venue": "ACS Omega",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1021/acsomega.6c07068",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-23",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1021%2Facsomega.6c07068",
+        "checked": "2026-11-23"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7237250076",
+        "checked": "2026-11-23"
+      }
+    ]
+  },
+  {
     "id": "10.4208/cicp.oa-2026-0074",
     "doi": "10.4208/cicp.oa-2026-0074",
     "title": "Generating Samples of Stationary Distributions of Weakly Interacting Diffusion Models without Finite Particle Truncation: A Weak Generative Approach",
@@ -31,6 +100,42 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W4415090034",
         "checked": "2026-11-22"
+      }
+    ]
+  },
+  {
+    "id": "10.35378/gujs.1894466",
+    "doi": "10.35378/gujs.1894466",
+    "title": "Buckling Response of Porous Functionally Graded Skew Plates Using a Higher-Order Trigonometric Shear Deformation Model",
+    "authors": [
+      "Youssef Bouchaouata",
+      "Saad Hassouna",
+      "Abdelaziz Tımeslı"
+    ],
+    "year": 2026,
+    "date": "2026-11-20",
+    "venue": "GAZI UNIVERSITY JOURNAL OF SCIENCE",
+    "type": "journal-article",
+    "url": "https://doi.org/10.35378/gujs.1894466",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-23",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.35378%2Fgujs.1894466",
+        "checked": "2026-11-23"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7237270706",
+        "checked": "2026-11-23"
       }
     ]
   },
@@ -108,6 +213,41 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7236634580",
         "checked": "2026-11-22"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/1402-4896/aec511",
+    "doi": "10.1088/1402-4896/aec511",
+    "title": "Microscopic fracture behaviors of Si\n                    <sub>3</sub>\n                    N\n                    <sub>4</sub>\n                    ceramics at elevated temperatures based on fracture and interface phase fields",
+    "authors": [
+      "Xin Huang",
+      "Tianbao Cheng",
+      "Junjie Zheng"
+    ],
+    "year": 2026,
+    "date": "2026-11-20",
+    "venue": "Physica Scripta",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/1402-4896/aec511",
+    "topics": [
+      "fracture"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-23",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F1402-4896%2Faec511",
+        "checked": "2026-11-23"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7237055849",
+        "checked": "2026-11-23"
       }
     ]
   },
