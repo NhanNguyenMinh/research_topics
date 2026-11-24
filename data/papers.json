@@ -1,5 +1,85 @@
 [
   {
+    "id": "10.1002/nme.70461",
+    "doi": "10.1002/nme.70461",
+    "title": "Parametric Non‐Intrusive Reduced Order Modelling via Taylor Series Neural Networks and Dynamic Identification",
+    "authors": [
+      "Xinlei Lin",
+      "Andrew G. Buchan",
+      "Jiaying Zhang",
+      "Sibo Cheng",
+      "Erwu Liu",
+      "Haibao Wen",
+      "Fan Xiao",
+      "Zepeng Yang",
+      "Dunhui Xiao"
+    ],
+    "year": 2026,
+    "date": "2026-11-22",
+    "venue": "International Journal for Numerical Methods in Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/nme.70461",
+    "topics": [
+      "sciml",
+      "inverse",
+      "rom"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-24",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fnme.70461",
+        "checked": "2026-11-24"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W4403949455",
+        "checked": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/advs.78895",
+    "doi": "10.1002/advs.78895",
+    "title": "Generative AI Models for Exploring Diffusion Dynamics from Multi‐Frame Particle Tracking",
+    "authors": [
+      "Jianan Wei",
+      "Qiang Zhang",
+      "Hao Sun",
+      "Yi Yang",
+      "Wenguan Wang"
+    ],
+    "year": 2026,
+    "date": "2026-11-22",
+    "venue": "Advanced Science",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/advs.78895",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-24",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fadvs.78895",
+        "checked": "2026-11-24"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7226024130",
+        "checked": "2026-11-24"
+      }
+    ]
+  },
+  {
     "id": "10.1038/s41598-026-79182-x",
     "doi": "10.1038/s41598-026-79182-x",
     "title": "Physics-informed neural surrogate learning predicts cervical cancer progression with mechanistic interpretability",
@@ -65,6 +145,42 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7237250076",
         "checked": "2026-11-23"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/adhm.72004",
+    "doi": "10.1002/adhm.72004",
+    "title": "Machine Learning‐Assisted Nanozymes: From Design to Application",
+    "authors": [
+      "Chengpeng Yu",
+      "Jianghua Yang",
+      "Jiaqi Qin",
+      "Xianwen Wang"
+    ],
+    "year": 2026,
+    "date": "2026-11-21",
+    "venue": "Advanced Healthcare Materials",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/adhm.72004",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-24",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fadhm.72004",
+        "checked": "2026-11-24"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7237343360",
+        "checked": "2026-11-24"
       }
     ]
   },

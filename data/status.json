@@ -1,10 +1,10 @@
 {
-  "data_updated_at": "2026-11-23T07:42:43.800663+00:00",
-  "last_attempt_at": "2026-11-23T07:42:43.800663+00:00",
-  "message": "Đã bổ sung 4 công bố; đối chiếu 20 DOI. Một số nguồn chưa kiểm tra được; giữ lại dữ liệu hiện có.",
-  "added": 4,
+  "data_updated_at": "2026-11-24T09:56:40.793242+00:00",
+  "last_attempt_at": "2026-11-24T09:56:40.793242+00:00",
+  "message": "Đã bổ sung 3 công bố; đối chiếu 20 DOI. Một số nguồn chưa kiểm tra được; giữ lại dữ liệu hiện có.",
+  "added": 3,
   "checked": 20,
-  "rejected": 16,
+  "rejected": 17,
   "state": "partial",
   "errors": [
     "Crossref: HTTPError",
