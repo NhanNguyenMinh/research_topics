@@ -1,5 +1,151 @@
 [
   {
+    "id": "10.1103/2gyh-gdpj",
+    "doi": "10.1103/2gyh-gdpj",
+    "title": "Uncertainty quantification in data-driven dynamical models via inverse problem solving",
+    "authors": [
+      "Mohamed Akrout",
+      "Dan Wilson"
+    ],
+    "year": 2026,
+    "date": "2026-11-23",
+    "venue": "Physical Review E",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1103/2gyh-gdpj",
+    "topics": [
+      "sciml",
+      "inverse"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-25",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1103%2F2gyh-gdpj",
+        "checked": "2026-11-25"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7131466232",
+        "checked": "2026-11-25"
+      }
+    ]
+  },
+  {
+    "id": "10.1017/jfm.2026.12245",
+    "doi": "10.1017/jfm.2026.12245",
+    "title": "Dynamic mixed turbulence modelling using a super-resolution generative adversarial approach",
+    "authors": [
+      "Ludovico Nista",
+      "Christoph David Karl Schumann",
+      "Temistocle Grenga",
+      "Jonathan F. MacArt",
+      "Antonio Attili",
+      "Heinz Pitsch"
+    ],
+    "year": 2026,
+    "date": "2026-11-23",
+    "venue": "Journal of Fluid Mechanics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1017/jfm.2026.12245",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-25",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1017%2Fjfm.2026.12245",
+        "checked": "2026-11-25"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7108217532",
+        "checked": "2026-11-25"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/pc.71881",
+    "doi": "10.1002/pc.71881",
+    "title": "Influence of Extensional Mixing on the Dispersion and Properties of Extruded Polylactic Acid (\n                    <scp>PLA</scp>\n                    )/Graphene Nanocomposites",
+    "authors": [
+      "Thatiana C. P. Macedo",
+      "Renan Demori",
+      "Armin Aminimajd",
+      "Guilhermino J. M. Fechine",
+      "João M. Maia"
+    ],
+    "year": 2026,
+    "date": "2026-11-22",
+    "venue": "Polymer Composites",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/pc.71881",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-25",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fpc.71881",
+        "checked": "2026-11-25"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7238732995",
+        "checked": "2026-11-25"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/pamm.70267",
+    "doi": "10.1002/pamm.70267",
+    "title": "A Scaled Boundary Finite Element Formulation for Static and Dynamic Analysis of Reissner–Mindlin Plates",
+    "authors": [
+      "Anna Hellers",
+      "Mathias Reichle",
+      "Sven Klinkel"
+    ],
+    "year": 2026,
+    "date": "2026-11-22",
+    "venue": "Proceedings in Applied Mathematics and Mechanics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/pamm.70267",
+    "topics": [
+      "plates",
+      "fem"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-25",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fpamm.70267",
+        "checked": "2026-11-25"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7238764151",
+        "checked": "2026-11-25"
+      }
+    ]
+  },
+  {
     "id": "10.1002/nme.70461",
     "doi": "10.1002/nme.70461",
     "title": "Parametric Non‐Intrusive Reduced Order Modelling via Taylor Series Neural Networks and Dynamic Identification",
