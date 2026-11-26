@@ -1,5 +1,267 @@
 [
   {
+    "id": "10.21203/rs.3.rs-11708875/v1",
+    "doi": "10.21203/rs.3.rs-11708875/v1",
+    "title": "Research on Core Loss Prediction Models and Multi-Condition Optimization Based on Data-Driven Methods",
+    "authors": [
+      "Yaoyang Cai"
+    ],
+    "year": 2026,
+    "date": "2026-11-24",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11708875/v1",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11708875%2Fv1",
+        "checked": "2026-11-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7239347006",
+        "checked": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11665877/v1",
+    "doi": "10.21203/rs.3.rs-11665877/v1",
+    "title": "Optimization of Thermomechanical and Fatigue Performance of Functionally Graded Ceramic Coated Aluminum Pistons Using Finite Element Analysis",
+    "authors": [
+      "Hassan M. Attar",
+      "Hassan S. Hedia",
+      "Ageel F. Alogla",
+      "Mohamed H. Hedia",
+      "Mona A. Soliman"
+    ],
+    "year": 2026,
+    "date": "2026-11-24",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11665877/v1",
+    "topics": [
+      "fem",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11665877%2Fv1",
+        "checked": "2026-11-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7239376828",
+        "checked": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11247580/v1",
+    "doi": "10.21203/rs.3.rs-11247580/v1",
+    "title": "Fast Prediction of Hoop Stress and Radial Displacement of Large-Diameter Pipe Jacking Segments Using Fourier Neural Operator",
+    "authors": [
+      "Fuhua ZHANG",
+      "Shiqing HUANG"
+    ],
+    "year": 2026,
+    "date": "2026-11-24",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11247580/v1",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11247580%2Fv1",
+        "checked": "2026-11-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7239357836",
+        "checked": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "10.1617/s11527-026-03371-3",
+    "doi": "10.1617/s11527-026-03371-3",
+    "title": "Differentiable modeling for constitutive surface identification of time–temperature dependent viscoelastic behavior in asphalt mixtures",
+    "authors": [
+      "Qifeng Yang",
+      "Yuliang Zhou",
+      "Mei-Po Kwan",
+      "Zhen Liu"
+    ],
+    "year": 2026,
+    "date": "2026-11-24",
+    "venue": "Materials and Structures",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1617/s11527-026-03371-3",
+    "topics": [
+      "inverse",
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1617%2Fs11527-026-03371-3",
+        "checked": "2026-11-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7239348014",
+        "checked": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "10.1177/10996362261503077",
+    "doi": "10.1177/10996362261503077",
+    "title": "Surrogate-assisted GA–PSO optimization of Bi-directionally functionally graded TPMS sandwich plates based on linear buckling performance with nonlinear post-buckling assessment",
+    "authors": [
+      "Mohammadjavad Zeinali",
+      "Gholam Hossein Rahimi",
+      "Shahram Hosseini"
+    ],
+    "year": 2026,
+    "date": "2026-11-24",
+    "venue": "Journal of Sandwich Structures & Materials",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1177/10996362261503077",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1177%2F10996362261503077",
+        "checked": "2026-11-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7239435098",
+        "checked": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s10237-026-02147-6",
+    "doi": "10.1007/s10237-026-02147-6",
+    "title": "An extended fluid–structure interaction framework for aortic hemodynamics and cardiovascular risk assessment using physics-informed neural networks",
+    "authors": [
+      "Hedyeh Mahjoub",
+      "Kamran Hassani",
+      "Ali Sheikhani",
+      "Mehdi Razeghi"
+    ],
+    "year": 2026,
+    "date": "2026-11-24",
+    "venue": "Biomechanics and Modeling in Mechanobiology",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s10237-026-02147-6",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs10237-026-02147-6",
+        "checked": "2026-11-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7239354795",
+        "checked": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "10.12688/f1000research.190956.1",
+    "doi": "10.12688/f1000research.190956.1",
+    "title": "Graphene Oxide-Based Composite Scaffolds for Bone Tissue Engineering: A Systematic Literature Review on Synthesis, Fabrication Methods, Mechanical Performance, In Vitro Biological Activity, and In Vivo Regenerative Cascades",
+    "authors": [
+      "Rio Marthen Wattimena",
+      "Elisha Zakiyah",
+      "Leonora Livi Riza Trifina",
+      "Ya' Muhammad Arsyad",
+      "Fadilah Wulan Cahyani",
+      "Hevenly Imanuel Araujo Berubu",
+      "Imanuel Iglesyas Rappun",
+      "Tamsil Tamsil",
+      "Jack Falentino Huwae",
+      "Umi Ba'dingatul Latifah",
+      "Fitrianingsih Putri Andreas",
+      "Mohammad Ahsani Taqwim",
+      "Oliv Nurul Kanaya",
+      "Petra Cendana Putra Mauboi",
+      "Muhammad Iksanudin"
+    ],
+    "year": 2026,
+    "date": "2026-11-23",
+    "venue": "F1000Research",
+    "type": "journal-article",
+    "url": "https://doi.org/10.12688/f1000research.190956.1",
+    "topics": [
+      "materials",
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-26",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.12688%2Ff1000research.190956.1",
+        "checked": "2026-11-26"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7238757507",
+        "checked": "2026-11-26"
+      }
+    ]
+  },
+  {
     "id": "10.1103/2gyh-gdpj",
     "doi": "10.1103/2gyh-gdpj",
     "title": "Uncertainty quantification in data-driven dynamical models via inverse problem solving",
