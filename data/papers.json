@@ -1,5 +1,154 @@
 [
   {
+    "id": "10.4252/wjsc.128748",
+    "doi": "10.4252/wjsc.128748",
+    "title": "Artificial intelligence-enabled virtual organoids: Digital-twin frameworks for predictive stem cell biology and precision regenerative medicine",
+    "authors": [
+      "Chen-Qi Zhang",
+      "Peng-Yu Yan",
+      "Hui-Fang Wang",
+      "Ya-Xiong Guo",
+      "Xiao Fan",
+      "Zheng-Dong Guo",
+      "Yu-Xiang Liu",
+      "Chun Liu"
+    ],
+    "year": 2026,
+    "date": "2026-11-26",
+    "venue": "World Journal of Stem Cells",
+    "type": "journal-article",
+    "url": "https://doi.org/10.4252/wjsc.128748",
+    "topics": [
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-27",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.4252%2Fwjsc.128748",
+        "checked": "2026-11-27"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225305339",
+        "checked": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "10.3389/fmats.2026.2035194",
+    "doi": "10.3389/fmats.2026.2035194",
+    "title": "Effect of QPQ treatment on microstructure and properties of 42CrMo4 steel",
+    "authors": [
+      "Yong Ma",
+      "Han Yuan",
+      "Shuo Zhang",
+      "Chao Chen",
+      "Fan Li",
+      "Ruize Yuan",
+      "Qiulai Huang",
+      "Cong Liu",
+      "Jinbo Qiu"
+    ],
+    "year": 2026,
+    "date": "2026-11-25",
+    "venue": "Frontiers in Materials",
+    "type": "journal-article",
+    "url": "https://doi.org/10.3389/fmats.2026.2035194",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-27",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.3389%2Ffmats.2026.2035194",
+        "checked": "2026-11-27"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7239751971",
+        "checked": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "10.21203/rs.3.rs-11852154/v1",
+    "doi": "10.21203/rs.3.rs-11852154/v1",
+    "title": "Atomic Orbital Machine Learning: A Hilbert-Space Learning Framework via Schrödinger Potential Dynamics and Quantum Density Matrix Interference.",
+    "authors": [
+      "Mahdi Shahsavari"
+    ],
+    "year": 2026,
+    "date": "2026-11-25",
+    "venue": "",
+    "type": "posted-content",
+    "url": "https://doi.org/10.21203/rs.3.rs-11852154/v1",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-27",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-11852154%2Fv1",
+        "checked": "2026-11-27"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7203481470",
+        "checked": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "10.15625/0866-7136/24365",
+    "doi": "10.15625/0866-7136/24365",
+    "title": "Free vibration of the hybrid laminated nanocomposite beams reinforced with carbon nanotubes and graphene platelets based on the RHSDT and IGA",
+    "authors": [
+      "N. H. Linh",
+      "Pham Tan Hung"
+    ],
+    "year": 2026,
+    "date": "2026-11-25",
+    "venue": "Vietnam Journal of Mechanics",
+    "type": "journal-article",
+    "url": "https://doi.org/10.15625/0866-7136/24365",
+    "topics": [
+      "plates",
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-27",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.15625%2F0866-7136%2F24365",
+        "checked": "2026-11-27"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7239817395",
+        "checked": "2026-11-27"
+      }
+    ]
+  },
+  {
     "id": "10.21203/rs.3.rs-11708875/v1",
     "doi": "10.21203/rs.3.rs-11708875/v1",
     "title": "Research on Core Loss Prediction Models and Multi-Condition Optimization Based on Data-Driven Methods",
@@ -210,6 +359,43 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7239354795",
         "checked": "2026-11-26"
+      }
+    ]
+  },
+  {
+    "id": "10.1002/nme.70494",
+    "doi": "10.1002/nme.70494",
+    "title": "A Fictitious Domain Formulation Based on Hierarchical Model Reduction Applied to Drug‐Eluting Stents",
+    "authors": [
+      "Anna Ranno",
+      "Francesco Ballarin",
+      "Fabien Lespagnol",
+      "Paolo Zunino",
+      "Simona Perotto"
+    ],
+    "year": 2026,
+    "date": "2026-11-24",
+    "venue": "International Journal for Numerical Methods in Engineering",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1002/nme.70494",
+    "topics": [
+      "rom"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-27",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1002%2Fnme.70494",
+        "checked": "2026-11-27"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7239377765",
+        "checked": "2026-11-27"
       }
     ]
   },

@@ -1,10 +1,10 @@
 {
-  "data_updated_at": "2026-11-26T08:22:47.093156+00:00",
-  "last_attempt_at": "2026-11-26T08:22:47.093156+00:00",
-  "message": "Đã bổ sung 7 công bố; đối chiếu 24 DOI.",
-  "added": 7,
+  "data_updated_at": "2026-11-27T08:38:00.888820+00:00",
+  "last_attempt_at": "2026-11-27T08:38:00.888820+00:00",
+  "message": "Đã bổ sung 5 công bố; đối chiếu 24 DOI.",
+  "added": 5,
   "checked": 24,
-  "rejected": 17,
+  "rejected": 19,
   "state": "ok",
   "errors": []
 }
