@@ -1,5 +1,72 @@
 [
   {
+    "id": "10.68152/2626",
+    "doi": "10.68152/2626",
+    "title": "Machine learning-based inverse design framework for mechanical springs",
+    "authors": [
+      "Mehmet Safa BİNGÖL"
+    ],
+    "year": 2026,
+    "date": "2026-11-26",
+    "venue": "Journal of Progress in Artificial Intelligence",
+    "type": "journal-article",
+    "url": "https://doi.org/10.68152/2626",
+    "topics": [
+      "sciml",
+      "design"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-28",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.68152%2F2626",
+        "checked": "2026-11-28"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7240031378",
+        "checked": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "10.6025/jes/2026/16/4/187-203",
+    "doi": "10.6025/jes/2026/16/4/187-203",
+    "title": "Unmasking Data Inconsistencies in Semiconductor Electronic Properties: A Critical Machine Learning and Statistical Evaluation",
+    "authors": [
+      "Hsing-Cheng Liu"
+    ],
+    "year": 2026,
+    "date": "2026-11-26",
+    "venue": "Journal of Electronic Systems",
+    "type": "journal-article",
+    "url": "https://doi.org/10.6025/jes/2026/16/4/187-203",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-28",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.6025%2Fjes%2F2026%2F16%2F4%2F187-203",
+        "checked": "2026-11-28"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7240097031",
+        "checked": "2026-11-28"
+      }
+    ]
+  },
+  {
     "id": "10.4252/wjsc.128748",
     "doi": "10.4252/wjsc.128748",
     "title": "Artificial intelligence-enabled virtual organoids: Digital-twin frameworks for predictive stem cell biology and precision regenerative medicine",
@@ -36,6 +103,117 @@
         "name": "OpenAlex",
         "url": "https://openalex.org/W7225305339",
         "checked": "2026-11-27"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/2631-7990/aebfda",
+    "doi": "10.1088/2631-7990/aebfda",
+    "title": "Water–material interactions in underwater laser additive manufacturing: process physics, microstructure evolution, and performance",
+    "authors": [
+      "Mingzhi Chen",
+      "Zhiyuan Jia",
+      "Zhandong Wang",
+      "Kun Yang",
+      "Shengbiao Zhang",
+      "Guifang Sun",
+      "En-Hou Han"
+    ],
+    "year": 2026,
+    "date": "2026-11-26",
+    "venue": "International Journal of Extreme Manufacturing",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/2631-7990/aebfda",
+    "topics": [
+      "materials"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-28",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F2631-7990%2Faebfda",
+        "checked": "2026-11-28"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7225649630",
+        "checked": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "10.1088/1361-6528/aec2fa",
+    "doi": "10.1088/1361-6528/aec2fa",
+    "title": "Designing high-quality-factor electrospun nanofiber air filters with physics-informed machine learning",
+    "authors": [
+      "Dharshini S T",
+      "Vignesh S",
+      "Athira S",
+      "Amrutha R Menon",
+      "Rohit Nimje",
+      "Ashutosh Mahajan"
+    ],
+    "year": 2026,
+    "date": "2026-11-26",
+    "venue": "Nanotechnology",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1088/1361-6528/aec2fa",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-28",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1088%2F1361-6528%2Faec2fa",
+        "checked": "2026-11-28"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7235597740",
+        "checked": "2026-11-28"
+      }
+    ]
+  },
+  {
+    "id": "10.1007/s44371-026-01098-2",
+    "doi": "10.1007/s44371-026-01098-2",
+    "title": "Sustainable locally sourced drilling fluids integrated with machine learning for performance optimization in petroleum well construction",
+    "authors": [
+      "Promise Gabriel Pepple",
+      "Abidemi Anthony Sangoremi"
+    ],
+    "year": 2026,
+    "date": "2026-11-26",
+    "venue": "Discover Chemistry",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1007/s44371-026-01098-2",
+    "topics": [
+      "sciml"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-28",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1007%2Fs44371-026-01098-2",
+        "checked": "2026-11-28"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7240091540",
+        "checked": "2026-11-28"
       }
     ]
   },
@@ -7956,6 +8134,47 @@
     ],
     "metadata_status": "verified-crossref",
     "selection": "profile-discovery"
+  },
+  {
+    "id": "10.1039/d6ra08126f",
+    "doi": "10.1039/d6ra08126f",
+    "title": "E-beam irradiated poly(vinyl-alcohol)/xyloglucan/κ-carrageenan/ovalbumin hydrogels as antioxidant wound dressings",
+    "authors": [
+      "Federica Gulino",
+      "Emanuela Muscolino",
+      "Daniela Giacomazza",
+      "Aneta Sterniczuk",
+      "Antonella Girgenti",
+      "Laura Palumbo",
+      "Pasquale Picone",
+      "Domenico Nuzzo",
+      "Clelia Dispenza"
+    ],
+    "year": 2026,
+    "date": "2026",
+    "venue": "RSC Advances",
+    "type": "journal-article",
+    "url": "https://doi.org/10.1039/d6ra08126f",
+    "topics": [
+      "plates"
+    ],
+    "featured": false,
+    "reason": "",
+    "discovered_on": "2026-11-28",
+    "metadata_status": "verified-crossref",
+    "selection": "topic-discovery",
+    "sources": [
+      {
+        "name": "Crossref",
+        "url": "https://api.crossref.org/works/10.1039%2Fd6ra08126f",
+        "checked": "2026-11-28"
+      },
+      {
+        "name": "OpenAlex",
+        "url": "https://openalex.org/W7235654488",
+        "checked": "2026-11-28"
+      }
+    ]
   },
   {
     "id": "10.1016/j.jmps.2025.106253",
